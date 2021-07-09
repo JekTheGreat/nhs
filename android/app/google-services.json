@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177207222125",
+    "project_id": "nhs-exam",
+    "storage_bucket": "nhs-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177207222125:android:d5a0606695f35777e54464",
+        "android_client_info": {
+          "package_name": "com.nhs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177207222125-k9387588k6bdd4rkq4u90csiq81e89h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KaqYbFQtPv8pZ35UTkkP9gIjkE-lZwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177207222125-k9387588k6bdd4rkq4u90csiq81e89h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

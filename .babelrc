@@ -1,0 +1,66 @@
+{
+  "presets": [
+    "module:metro-react-native-babel-preset"
+  ],
+  "plugins": [
+    [
+      "babel-plugin-inline-import",
+      {
+        "extensions": [
+          ".svg"
+        ]
+      }
+    ],
+    [
+      "@babel/plugin-proposal-decorators",
+      {
+        "legacy": true
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": [
+          "./"
+        ],
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".es",
+          ".es6",
+          ".mjs",
+          ".ios.js",
+          ".android.js"
+        ],
+        "stripExtensions": [
+          ".js",
+          ".jsx",
+          ".es",
+          ".es6",
+          ".mjs"
+        ],
+        "alias": {
+          "__proj": ".",
+          "__src": "./src",
+          "__color": "./src/resources/styles/color",
+          "__redash": "./src/resources/redash/index",
+          "__npm": "./node_modules",
+          "__chevron": "./src/modules/ticketing/components/screens/ticketlogs/Chevron",
+          "__RNTypes": "./src/commons/ReactNavigationTypes"
+        }
+      }
+    ]
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "@babel/plugin-transform-react-jsx-source"
+      ]
+    },
+    "production": {
+      "plugins": [
+        "transform-remove-console"
+      ]
+    }
+  }
+}

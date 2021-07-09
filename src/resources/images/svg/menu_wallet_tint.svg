@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<g id="Layer_1">
+</g>
+<g id="Layer_2_1_">
+</g>
+<g id="Layer_3">
+</g>
+<g id="Layer_4_1_">
+</g>
+<g id="Layer_5_1_">
+</g>
+<g id="Layer_6">
+</g>
+<g id="Layer_7">
+</g>
+<g id="Layer_8_1_">
+</g>
+<g id="Layer_5">
+</g>
+<g id="Layer_11">
+	<g id="menu_x5F_wallet_x5F_icon">
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25.1042" y1="140.0944" x2="89.9726" y2="27.739">
+			<stop  offset="0" style="stop-color:#B87040"/>
+			<stop  offset="0.6" style="stop-color:#955935"/>
+		</linearGradient>
+		<path style="fill:url(#SVGID_2_);" d="M115.08,65.5V45.5c0-3.12-2.55-5.67-5.67-5.67H5.67C2.55,39.83,0,42.38,0,45.5v76.84
+			c0,3.12,2.55,5.67,5.67,5.67h103.75c3.12,0,5.67-2.55,5.67-5.67v-20.01V65.5z"/>
+		<path style="fill:#814E2F;" d="M120.21,97.02H91.18c-3.12,0-5.67-2.55-5.67-5.67V76.48c0-0.92,0.23-1.78,0.62-2.55
+			c-1.84,0.94-3.12,2.85-3.12,5.05v14.87c0,3.12,2.55,5.67,5.67,5.67h29.03c2.2,0,4.11-1.27,5.05-3.12
+			C121.99,96.79,121.13,97.02,120.21,97.02z"/>
+		<path style="fill:#C07139;" d="M120.21,70.82H91.18c-3.12,0-5.67,2.55-5.67,5.67v14.87c0,3.12,2.55,5.67,5.67,5.67h29.03
+			c3.12,0,5.67-2.55,5.67-5.67V76.48C125.88,73.37,123.33,70.82,120.21,70.82z"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="102.8684" y1="88.1731" x2="94.3557" y2="79.6604">
+			<stop  offset="0" style="stop-color:#FCCB62"/>
+			<stop  offset="0.2131" style="stop-color:#FED787"/>
+			<stop  offset="0.3939" style="stop-color:#FFDF9F"/>
+			<stop  offset="0.5048" style="stop-color:#FFE2A8"/>
+			<stop  offset="0.6136" style="stop-color:#FFDF9F"/>
+			<stop  offset="0.791" style="stop-color:#FED787"/>
+			<stop  offset="1" style="stop-color:#FCCB62"/>
+		</linearGradient>
+		<circle style="fill:url(#SVGID_3_);" cx="98.61" cy="83.92" r="6.02"/>
+		<polygon style="fill:#A6DBC7;" points="94.47,34.17 91.76,20.16 19.26,34.17 		"/>
+		<polygon style="fill:#759475;" points="66.8,0 12.42,30.69 77.07,18.19 		"/>
+	</g>
+</g>
+<g id="Layer_8">
+</g>
+</svg>
