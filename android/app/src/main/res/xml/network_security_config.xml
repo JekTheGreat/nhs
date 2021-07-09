@@ -4,6 +4,5 @@
         <domain includeSubdomains="true">localhost</domain>
         <domain includeSubdomains="true">60e47bc85bcbca001749ea4b.mockapi.io</domain>
         <domain includeSubdomains="true">10.0.3.2</domain>
-        <domain includeSubdomains="true">192.168.100.244</domain>
     </domain-config>
 </network-security-config>
