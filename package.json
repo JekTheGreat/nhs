@@ -154,8 +154,10 @@
     "podinstall": "cd ios && pod install",
     "build:android": "react-native bundle --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --dev false --platform android",
     "build:release": "cd android && ./gradlew assembleRelease",
+    "build:debug": "cd android && ./gradlew assembleDebug",
     "postinstall": "npx jetify",
-    "changeport": "react-native-port-patcher --new-port 8082"
+    "changeport": "react-native-port-patcher --new-port 8082",
+    "clean:android": "cd android && ./gradlew clean"
   },
   "jest": {
     "preset": "react-native"

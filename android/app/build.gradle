@@ -78,6 +78,7 @@ apply plugin: "com.android.application"
 
 project.ext.react = [
     enableHermes: false,  // clean and rebuild if changing
+    entryFile: "index.js",
 ]
 
 apply from: "../../node_modules/react-native/react.gradle"
@@ -191,6 +192,11 @@ subprojects {
                 compileSdkVersion 28
                 buildToolsVersion '28.0.3'
             }
+
+            android.applicationVariants.all { variant ->
+            variant.ext.bundleJsAndAssets.enabled = false
+            }
+            
             configurations.all {
                 resolutionStrategy {
                     force 'com.android.support:support-v4:27.1.0'
