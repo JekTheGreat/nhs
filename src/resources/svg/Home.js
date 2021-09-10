@@ -10,12 +10,12 @@ import Svg, {
 } from "react-native-svg";
 import PropTypes from "prop-types";
 
-const Home = ({ size, isActive, children }) => {
+const Home = ({size, isActive, children}) => {
 
-	if (isActive) {
+	if (isActive){
 		return homeActive(size);
 	}
-
+	
 	return (
 		<Svg width={size} height={size} viewBox="0 0 128 128">
 			<Circle cx={64.56} cy={89.5} r={20} fill="#5f7382" />

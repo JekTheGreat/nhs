@@ -1,0 +1,176 @@
+import { StyleSheet} from "react-native";
+import {getStatusBarHeight} from "__src/resources/customize/StatusBarHeight";
+import Resource from "__src/resources";
+const {Color} = Resource;
+
+export default StyleSheet.create({
+	/* components/Main */
+	container: {flexShrink: 1, width: "100%", height: "100%", backgroundColor: Color.StatusBar},
+	bg: {position: "absolute", flex: 1, backgroundColor: Color.white, marginTop: getStatusBarHeight(true)},
+	account: {backgroundColor: "blue", marginTop: getStatusBarHeight(true)},
+	account2: {backgroundColor: "blue", marginTop: getStatusBarHeight(true)},
+	body: {flex: 1, backgroundColor: Color.bg},
+	containerStyle: {marginTop: 0, borderTopWidth: 0,
+		borderBottomWidth: 0, backgroundColor: Color.bg, flex: 1 },
+	titleStyle: {color: Color.Standard2, fontFamily: "Roboto-Light"},
+	titleStyle2: {color: Color.Standard2, fontFamily: "Roboto-Light", fontSize: 16},
+	liStyle: {backgroundColor: Color.white, borderBottomColor: Color.transparent},
+	footer: {height: 80, backgroundColor: "transparent"},
+	avatarStyle: {width: 25, height: 25},
+
+	/* components/VerifyEmail && VerifyMobile */
+	btnStyle: {width: 100, height: 45, alignSelf: "flex-end", borderBottomWidth: 5, marginBottom: 20, marginTop: 20},
+	btnStyle2: {width: "100%", height: 45, alignSelf: "flex-end", borderBottomWidth: 5 },
+	btnStyle3: {width: "100%", height: 45, alignSelf: "flex-end", backgroundColor: "transparent", borderBottomWidth: 0, borderColor: "transparent" },
+	btnLabelStyle: {color: Color.colorPrimaryDark},
+	flex1: {flex: 1},
+	flexStart: {alignSelf: "flex-start"},
+	flexShrink1: {flexShrink: 1},
+	flex1bg: {flex: 1, backgroundColor: Color.white},
+	flex1mar30: {flex: 1, marginTop: 30},
+	flex1marginTop15: {flex: 1, marginTop: 15},
+	flex1mar30pad30: {flex: 1, paddingHorizontal: 30, marginTop: 30},
+	flex1pad30pad30: {flex: 1, paddingHorizontal: 30, paddingTop: 30},
+	txtmobile: {fontFamily: "Roboto-Light", fontWeight: "bold", color: Color.Standard2, fontSize: 16, marginBottom: 15},
+	txtdidntgetcode: {fontSize: 13, marginTop: 15, color: Color.Standard2, fontFamily: "Roboto-Light", textAlign: "right" },
+	txtresend: {fontWeight: "bold", color: Color.colorPrimary},
+	flex1pad30: {flex: 1, paddingHorizontal: 30},
+	txtcodesend: {fontFamily: "Roboto-Light",  fontSize: 13, color: Color.Standard2, marginBottom: 5},
+	marb10: {marginBottom: 10},
+	marb20: {marginBottom: 20},
+	marb30: {marginBottom: 30},
+	viewMobile: {flexDirection: "row", height: 40, borderWidth: 0.5, borderRadius: 4, justifyContent: "center", alignItems: "center", borderColor: Color.Header, paddingHorizontal: 10},
+	btnCountry: {flexDirection: "row", alignItems: "center", justifyContent: "center", marginRight: 3},
+	imgCountry: {width: 20, height: 20},
+	txtCountryCalling: {fontFamily: "Roboto", fontSize: 15, color: Color.Standard2},
+
+	dropdownstyle: {width: 250, height: 250, borderColor: "#D9D8D8",
+		marginTop: 3, borderWidth: 1, borderRadius: 5},
+	dropdownRow: {flexDirection: "row", height: 40, alignItems: "center", backgroundColor: "white"},
+	dropdownRowText: {marginLeft: 5, fontSize: 13, fontFamily: "Roboto-Light", color: Color.DarkBG},
+	dropdownRowText2: {fontWeight: "bold"},
+
+	searchSection: {flexDirection: "row", justifyContent: "flex-start", alignItems: "flex-start"},
+	searchSection2: {paddingLeft: 10, paddingRight: 5, flexDirection: "row", justifyContent: "flex-start", alignItems: "center"},
+
+	marginVer65: {marginTop: 45, marginBottom: 40},
+	marginVer20: {marginVertical: 20},
+	paddingVer30: {paddingVertical: 30},
+	paddingH10: {paddingHorizontal: 10},
+	paddingH20: {paddingHorizontal: 20},
+	paddingBtm30VmarginTop65: {marginTop: 35, marginBottom: 30},
+	txtproceed: {color: Color.colorPrimary, fontSize: 17, alignSelf: "center", paddingHorizontal: 30, paddingVertical: 10},
+	doneWrap1: {flex: 1, padding: 30, flexDirection: "column", justifyContent: "space-between"},
+	txtmobilesuccess: {textAlign: "center", color: Color.Standard2, fontSize: 24},
+	imgsuccess: {width: 125, height: 125, alignSelf: "center", marginVertical: 10},
+	txtalright: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.colorPrimary, fontSize: 25},
+	txtsuccess: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 15},
+	subtitleStyle: {color: Color.Standard, fontWeight: null, fontFamily: "Roboto-Light", fontSize: 11},
+	/* components/AccountVerification */
+	card: {flexShrink: 1, marginTop: 0,
+		 paddingTop: 25, paddingHorizontal: 30},
+	txtheader: {
+		color: Color.Standard2, fontWeight: "bold", fontFamily: "Roboto", fontSize: 20, textAlign: "center",
+		paddingVertical: 15,
+	},
+	viewContainer: { 
+		flexShrink: 1, backgroundColor: "white", marginHorizontal: 15, elevation: 5, borderRadius: 36,
+	},
+
+	/* components/KYC */
+	dropdownStyle: {height: 120, paddingHorizontal: 10},
+	dropdownStyle2: {height: 200, paddingHorizontal: 10},
+	labelStyle: {color: Color.Standard, fontSize: 14, fontFamily: "Roboto-Light"},
+	renderBase: {flexDirection: "row", width: "100%", height: 40, alignItems: "center",  borderBottomColor: "#404040", borderBottomWidth: 0.6},
+	renderRow: {flexDirection: "row", height: 40, alignItems: "center", justifyContent: "space-between", backgroundColor: "white"},
+	renderRowTxt: {margin: 4, fontSize: 12, color: Color.Standard, fontFamily: "Roboto", textAlignVertical: "center"},
+	renderSearch: {height: 40, borderBottomColor: Color.Standard,
+		borderBottomWidth: 0.5, marginTop: 5},
+	input: {flex: 1, fontFamily: "Roboto-Light", fontSize: 14, marginLeft: 5},
+	txtlabel: {fontFamily: "Roboto-Light", fontSize: 16, color: Color.Standard2, fontWeight: "bold"},
+	style3: {height: 60, alignItems: null},
+	rowmarginTop15: {flex: 1, flexDirection: "row", marginTop: 15},
+	cbcontainerStyle: {marginLeft: 0, padding: 0, backgroundColor: "transparent", borderColor: "transparent", marginTop: 20},
+	cbcontainerStyle2: {marginLeft: 0, padding: 0, backgroundColor: "transparent", borderColor: "transparent"},
+	textStyle: {fontFamily: "Roboto-Light", fontStyle: "italic", fontSize: 14, color: Color.Standard2},
+	txtNote: {fontFamily: "Roboto-Light", fontStyle: "italic", fontSize: 14, color: Color.Standard2, marginTop: 15},
+
+	// UploadID
+	customStyle: {backgroundColor: "#191D21", opacity: 0.3, zIndex: 1, position: "absolute", top: 0, bottom: 0, left: 0, right: 0},
+	errStyle: {color: Color.red, fontSize: 13, fontFamily: "Roboto-Light", marginTop: 4},
+
+	// ProofAddress
+	flexrow: {flexDirection: "row"},
+	wrapper1: {flexShrink: 1, backgroundColor: Color.Header, borderRadius: 5},
+	imgFile: {width: 300, height: 200, alignSelf: "center"},
+	btnInfo: {position: "absolute", top: 0, right: 0},
+	padmar0: {padding: 0, margin: 0},
+	btnCamera: {position: "absolute", justifyContent: "center", alignItems: "center", flexDirection: "row", width: "100%",
+	 height: 50, bottom: 0, backgroundColor: Color.red01,
+	 borderBottomEndRadius: 5, borderBottomStartRadius: 5, opacity: 0.9},
+	txtCamera: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.white, fontSize: 16,
+		marginLeft: 7},
+	txtOR: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 10, marginTop: 10},
+	btnClickToUpload: {flexDirection: "row", justifyContent: "center", alignItems: "center"},
+	imgUpload: {width: 23, height: 23, alignSelf: "center"},
+	txtUpload: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.LightBlue, fontSize: 13,
+		marginLeft: 7, textDecorationLine: "underline"},
+	btnFileUpload: {flexDirection: "row", padding: 5, borderRadius: 3, backgroundColor: Color.LightBlue, flexShrink: 1 },
+	txtUploadFile: {fontFamily: "Roboto-Light", color: Color.white, fontSize: 13, marginLeft: 7},
+
+	// ProfileDetails
+	borderWidth0: {borderBottomWidth: 0},
+	inputStyles: {fontSize: 17, color: Color.Standard2, flex: 1, paddingVertical: 0, fontFamily: "Roboto"},
+	marginTop5: {marginTop: 5},
+	marginTop10: {marginTop: 10},
+	marginTop15: {marginTop: 15},
+	marginTop20: {marginTop: 20},
+	marginTop30: {marginTop: 30},
+	marginTop45: {marginTop: 45},
+	marginTop60: {marginTop: 60},
+	padH5: {paddingHorizontal: 5},
+	view1: {padding: 20, backgroundColor: Color.white,
+		borderBottomColor: Color.bg, borderBottomWidth: 3},
+	view2: {flexDirection: "row", justifyContent: "space-between", marginTop: 15},
+	view3: {padding: 20, backgroundColor: Color.white},
+	txt1: {fontFamily: "Roboto-Light", color: Color.LightBlue, fontSize: 16, marginTop: 30},
+	txt2: {fontFamily: "Roboto-Light", color: Color.LightBlue, fontSize: 16},
+	txt3: {fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 14, marginTop: 20},
+	txt4: {fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 15},
+	txt5: {fontFamily: "Roboto-Light", color: Color.green, fontSize: 12},
+	btnUpdate: {alignSelf: "flex-end", marginBottom: 15},
+	imgUpdate: {width: 60, height: 25},
+
+	// ProfileScreen
+	success1: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 24},
+	success2: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 25, fontWeight: "700"},
+
+	// Terms and Policy
+	termsTitle: {fontWeight: "500", fontSize: 18, fontFamily: "Roboto-Light", marginVertical: 10},
+	termsTxt1: {fontSize: 12, fontFamily: "Roboto-Light", marginVertical: 5, color: Color.Standard},
+	termsTxt2: {fontSize: 15, fontFamily: "Roboto-Light", marginVertical: 5, padding: 7, color: "white", backgroundColor: "#FCA600"},
+	termsTxt3: {color: Color.Standard2, fontSize: 12, fontFamily: "Roboto-Light", marginTop: 5},
+
+	// Switch Account
+	btnCreate: {marginHorizontal: 20, borderBottomWidth: 6, marginBottom: 5},
+	btnCancel: {backgroundColor: Color.transparent, color: Color.colorPrimaryDark,
+		 marginHorizontal: 20, borderBottomWidth: 0},
+	view4: {flexDirection: "column", flexShrink: 1, alignItems: "flex-end"},
+	renderItemContainer: {flexShrink: 1, padding: 10, flexDirection: "row",
+		justifyContent: "center", alignItems: "center", backgroundColor: Color.white},
+	height40: {height: "40%"},
+	height60: {height: "60%", backgroundColor: Color.bg},
+
+	// Transaction Pin
+	pinContainer: {flexGrow: 1, alignItems: "center", marginTop: 20},
+	imgStyle: {height: 100, width: 100},
+	textStylePin: {textAlign: "center", fontFamily: "Roboto", fontSize: 17},
+	pinViewContainer: {marginTop: 15, width: "85%",},
+	inputFieldStyle: {
+		marginTop: 15, paddingLeft: 15, width: "100%", borderWidth: 0.5, height: 40, justifyContent: "center",
+		borderRadius: 8, backgroundColor: "#F6F6F6", borderColor: "#E8E8E8"
+	},
+	btnView: {marginTop: 10, },
+	btnStylePin: {borderRadius: 100, height: 35,},
+	labelStylePin: {fontWeight: "bold", fontFamily: "Roboto", fontSize: 14,},
+});

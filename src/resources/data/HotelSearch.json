@@ -1,0 +1,511 @@
+{
+  "hotels": [
+    {
+      "id": 85249,
+      "name": "Pan Pacific Manila",
+      "categoryCode": "5EST",
+      "latitude": "14.572610740152731",
+      "longitude": "120.9843776298112",
+      "description": "Pan Pacific Manila located approximately 100 metres away from Roxas Boulevard and Manila Bay, and is in the popular Malate entertainment district. It is just a few minutes taxi ride away from many tourist destinations such as Rizal Park, Intramuros and Fort Santiago. The hotel is designed to offer comfortable accommodation to business travellers. It has 236 rooms spread across 21 floors, and 7 function rooms and offers all guests a \"butler service\". The Pacific Lounge encompasses the top floor of the hotel, with floor-to-ceiling glass walls and offering private meeting room, a separate lounge, a dining area, a bar and a rooftop garden with gazebo. There is an outdoor swimming pool and a gym. Intramuros Golf Course is just a 10-minute drive from the hotel. Come and enjoy the wonderful amenities and impeccable service at Pan Pacific Manila.",
+      "address": "M. ADRIATICO CORNER GEN. MALVAR STREETS, MALATE,  ",
+      "postalCode": "1004",
+      "emailAddress": "enquiry.ppmnl@panpacific.com",
+      "city": "MANILA CITY",
+      "country": {
+        "id": "PH",
+        "name": "Philippines"
+      },
+      "zoneId": 1,
+      "website": "http://www.panpacific.com/en/manila/Overview.html",
+      "images": [
+        {
+          "path": "http://photos.hotelbeds.com/giata/bigger/08/085249/085249a_hb_ro_006.jpg",
+          "order": 6
+        }
+      ],
+      "phoneNumber": "",
+      "rooms": [
+        {
+          "id": "DBL.SU",
+          "name": "DOUBLE SUPERIOR",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac",
+              "netAmount": 24583.12,
+              "totalAmount": 24583.12,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 72,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "6828.64"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "6828.64",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|DBL.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3",
+              "netAmount": 26565.64,
+              "totalAmount": 26565.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 72,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "7379.34"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "7379.34",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "TWN.SU",
+          "name": "TWIN SUPERIOR",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052401aac",
+              "netAmount": 24583.12,
+              "totalAmount": 24583.12,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 28,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "6828.64"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "6828.64",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3|*|20190331|20190401|W|271|85249|TWN.SU|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052221cd3",
+              "netAmount": 26565.64,
+              "totalAmount": 26565.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 28,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "7379.34"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "7379.34",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "DBL.EJ",
+          "name": "DOUBLE EXECUTIVE",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d",
+              "netAmount": 27755.12,
+              "totalAmount": 27755.12,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 73,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "7709.75"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "7709.75",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|DBL.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044",
+              "netAmount": 29737.64,
+              "totalAmount": 29737.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 73,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "8260.45"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "8260.45",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "TWN.EJ",
+          "name": "TWIN EXECUTIVE",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000524b1e1d",
+              "netAmount": 27755.12,
+              "totalAmount": 27755.12,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 18,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "7709.75"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "7709.75",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044|*|20190331|20190401|W|271|85249|TWN.EJ|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522d2044",
+              "netAmount": 29737.64,
+              "totalAmount": 29737.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 18,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "8260.45"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "8260.45",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "DBT.DX",
+          "name": "Double or Twin DELUXE",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBT.DX|FIT2|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522a20e6|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522a20e6|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522a20e6|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000522a20e6",
+              "netAmount": 30320.72,
+              "totalAmount": 30320.72,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "8422.42"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "8422.42",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBT.DX|FIT2|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000521e236e|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000521e236e|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000521e236e|*|20190331|20190401|W|271|85249|DBT.DX|FIT2|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000521e236e",
+              "netAmount": 32653.08,
+              "totalAmount": 32653.08,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "9070.30"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "9070.30",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "DBL.PE",
+          "name": "DOUBLE PACIFIC KING",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052542491|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052542491|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052542491|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052542491",
+              "netAmount": 33702.64,
+              "totalAmount": 33702.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "9361.84"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "9361.84",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523626b8|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523626b8|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523626b8|*|20190331|20190401|W|271|85249|DBL.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523626b8",
+              "netAmount": 35685.16,
+              "totalAmount": 35685.16,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "9912.54"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "9912.54",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "SUI.PE",
+          "name": "SUITE PACIFIC KING",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000525a2e08|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000525a2e08|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000525a2e08|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000525a2e08",
+              "netAmount": 42425.64,
+              "totalAmount": 42425.64,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "11784.90"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "11784.90",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523c302f|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523c302f|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523c302f|*|20190331|20190401|W|271|85249|SUI.PE|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH0000001000000000523c302f",
+              "netAmount": 44408.16,
+              "totalAmount": 44408.16,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 10,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "12335.60"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "12335.60",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "SUI.DX",
+          "name": "SUITE DELUXE KING",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052124165|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052124165|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052124165|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052124165",
+              "netAmount": 60268.24,
+              "totalAmount": 60268.24,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 8,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "16741.18"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "16741.18",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            },
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH00000010000000005258438b|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH00000010000000005258438b|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH00000010000000005258438b|*|20190331|20190401|W|271|85249|SUI.DX|OFF-FIT|BB||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH00000010000000005258438b",
+              "netAmount": 62250.76,
+              "totalAmount": 62250.76,
+              "rateType": "BOOKABLE|*|BOOKABLE|*|BOOKABLE|*|BOOKABLE",
+              "allotment": 8,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "17291.88"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "17291.88",
+                  "from": "2019-03-26T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        },
+        {
+          "id": "SUI.PT",
+          "name": "SUITE PRESIDENTIAL",
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "rateKey": "20190331|20190401|W|271|85249|SUI.PT|BAR-RO|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052001384e|*|20190331|20190401|W|271|85249|SUI.PT|BAR-RO|RO||1~2~0||N@02~~9A020FECABFE4D4155366939689000AWPH000000100000000052001384e",
+              "netAmount": 143910,
+              "totalAmount": 143910,
+              "rateType": "BOOKABLE|*|BOOKABLE",
+              "allotment": 1,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "paymentType": "AT_WEB",
+              "offers": [],
+              "dailyRates": [
+                {
+                  "offset": 1,
+                  "dailySellingRate": "79950.00"
+                }
+              ],
+              "cancellationPolicy": [
+                {
+                  "amount": "79950.00",
+                  "from": "2019-03-28T23:59:00+08:00"
+                }
+              ],
+              "currency": "PHP"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "total": 1
+}

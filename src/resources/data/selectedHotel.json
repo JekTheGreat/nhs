@@ -1,0 +1,95 @@
+{
+    "amenities": [
+        {
+            "createdAt": "0000-00-00 00:00:00",
+            "updatedAt": null,
+            "id": 7,
+            "name": "Shampoo",
+            "description": "",
+            "icon": "",
+            "status": true,
+            "amenityType": 1
+        },
+        {
+            "createdAt": "0000-00-00 00:00:00",
+            "updatedAt": null,
+            "id": 6,
+            "name": "Wifi",
+            "description": "",
+            "icon": "",
+            "status": true,
+            "amenityType": 1
+        },
+        {
+            "createdAt": "0000-00-00 00:00:00",
+            "updatedAt": null,
+            "id": 8,
+            "name": "TV",
+            "description": "",
+            "icon": "",
+            "status": true,
+            "amenityType": 1
+        }
+    ],
+    "houseRules": [],
+    "images": [
+        {
+            "createdAt": "2019-01-17T02:30:51.000Z",
+            "updatedAt": "2019-01-17T02:30:51.000Z",
+            "id": 15,
+            "name": "Name your place",
+            "path": "https://a0.muscache.com/im/pictures/2f46fd83-f50b-410b-b51c-b6bd7e79dc42.jpg?aki_policy=xx_large",
+            "home": 29
+        },
+        {
+            "createdAt": "2019-01-17T02:30:51.000Z",
+            "updatedAt": "2019-01-17T02:30:51.000Z",
+            "id": 16,
+            "name": "Test",
+            "path": "https://a0.muscache.com/im/pictures/2183640b-2bf4-4b90-9a36-b90d54815e3a.jpg?aki_policy=x_large",
+            "home": 29
+        }
+    ],
+    "AdditionalHouseRules": [],
+    "createdAt": "2019-01-17T02:30:51.000Z",
+    "updatedAt": "2019-01-17T02:30:51.000Z",
+    "id": 29,
+    "name": "Name your place",
+    "description": "Describe your place to guests\n\nWrite a quick summary of your place. You can highlight what’s special about your space, the neighborhood, and how you’ll interact with guests.",
+    "status": "LISTED",
+    "numberOfGuests": 1,
+    "numberOfRooms": 1,
+    "numberOfBathroom": 1,
+    "minStay": 1,
+    "maxStay": 2,
+    "amount": 1500,
+    "currency": "PHP",
+    "address": "789",
+    "location": "Llano Road",
+    "latitude": "14.733411",
+    "longitude": "121.011022",
+    "placeId": "ChIJK7Fk0aGxlzMRy3Mfg17nrCY",
+    "city": "Caloocan",
+    "state": "Metro Manila",
+    "country": "PH",
+    "zipcode": "1420",
+    "user": 10,
+    "homeType": {
+        "createdAt": "2018-12-06T02:11:57.000Z",
+        "updatedAt": "2018-12-06T02:11:57.000Z",
+        "id": 1,
+        "name": "Entire Place",
+        "label": "ENTIRE",
+        "description": "Guests have the whole place to themselves. This usually includes a bedroom, a bathroom, and a kitchen."
+    },
+    "propertyType": {
+        "createdAt": "2018-12-18T08:19:04.000Z",
+        "updatedAt": null,
+        "id": 2,
+        "name": "Condominium",
+        "description": "Condominium",
+        "status": true,
+        "property": 1
+    },
+    "bedRooms": []
+}

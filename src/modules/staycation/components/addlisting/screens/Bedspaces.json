@@ -1,0 +1,58 @@
+[
+  {
+    "countspaces":0,
+    "desc": "Sofa Bed"
+  },
+  {
+    "countspaces":1,
+    "desc": "Couch"
+  },
+  {
+    "countspaces":2,
+    "desc": "Floor Mattress"
+  },
+  {
+    "countspaces":3,
+    "desc": "Air Mattress"
+  },
+  {
+    "countspaces":4,
+    "desc": "Bunk Bed"
+  },
+  {
+    "countspaces":5,
+    "desc": "Crib"
+  },
+  {
+    "countspaces":6,
+    "desc": "Double"
+  },
+  {
+    "countspaces":7,
+    "desc": "Hammock"
+  },
+  {
+    "countspaces":8,
+    "desc": "King"
+  },
+  {
+    "countspaces":9,
+    "desc": "Queen"
+  },
+  {
+    "countspaces":10,
+    "desc": "Single"
+  },
+  {
+    "countspaces":11,
+    "desc": "Small Double"
+  },
+  {
+    "countspaces":12,
+    "desc": "Toddler Bed"
+  },
+  {
+    "countspaces":13,
+    "desc": "Water Bed"
+  }
+]

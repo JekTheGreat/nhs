@@ -1,0 +1,2869 @@
+{
+    "data": {
+      "hotels": {
+        "rows": [
+          {
+            "id": "85249",
+            "name": "Pan Pacific Manila",
+            "categoryCode": "5EST",
+            "description": "Pan Pacific Manila located approximately 100 metres away from Roxas Boulevard and Manila Bay, and is in the popular Malate entertainment district. It is just a few minutes taxi ride away from many tourist destinations such as Rizal Park, Intramuros and Fort Santiago. The hotel is designed to offer comfortable accommodation to business travellers. It has 236 rooms spread across 21 floors, and 7 function rooms and offers all guests a \"butler service\". The Pacific Lounge encompasses the top floor of the hotel, with floor-to-ceiling glass walls and offering private meeting room, a separate lounge, a dining area, a bar and a rooftop garden with gazebo. There is an outdoor swimming pool and a gym. Intramuros Golf Course is just a 10-minute drive from the hotel. Come and enjoy the wonderful amenities and impeccable service at Pan Pacific Manila.",
+            "address": "M. ADRIATICO CORNER GEN. MALVAR STREETS, MALATE,  ",
+            "city": "MANILA CITY",
+            "zoneCode": 1,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "enquiry.ppmnl@panpacific.com",
+            "latitude": "14.572610740152731",
+            "longitude": "120.9843776298112",
+            "phoneNumber": "6323180788",
+            "rooms": [
+              {
+                "id": "DBL.SU",
+                "name": "DOUBLE SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|DBL.SU|BAR-RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "16162.20",
+                    "discountAmount": "1795.80",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "17958.00",
+                    "allotment": "58",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "17958.00|~|2018-09-05T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|DBL.SU|BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "18819.00",
+                    "discountAmount": "2091.00",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "20910.00",
+                    "allotment": "58",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "10455.00|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.SU",
+                "name": "TWIN SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|TWN.SU|BAR-RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "16162.20",
+                    "discountAmount": "1795.80",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "17958.00",
+                    "allotment": "28",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "17958.00|~|2018-09-05T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|TWN.SU|BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "18819.00",
+                    "discountAmount": "2091.00",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "20910.00",
+                    "allotment": "28",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "10455.00|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.EJ",
+                "name": "DOUBLE EXECUTIVE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|DBL.EJ|BAR-RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "18376.20",
+                    "discountAmount": "2041.80",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "20418.00",
+                    "allotment": "69",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "20418.00|~|2018-09-05T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|DBL.EJ|BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "21033.00",
+                    "discountAmount": "2337.00",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "23370.00",
+                    "allotment": "69",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "11685.00|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.EJ",
+                "name": "TWIN EXECUTIVE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|TWN.EJ|BAR-RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "18376.20",
+                    "discountAmount": "2041.80",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "20418.00",
+                    "allotment": "16",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "20418.00|~|2018-09-05T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85249|TWN.EJ|BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "21033.00",
+                    "discountAmount": "2337.00",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "23370.00",
+                    "allotment": "16",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "11685.00|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2Fimages-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=doc32vQkpWzHJ15%2BMTy7NdWhd6BuOXdL5XQN6nqR06lM9CtqaOWPcO0%2Fz9%2BV7Fkb8AEndWWrLhQvoYgOjmqjoR9pFOgImtWME20ZgYqqWIJVFfRtX2C1IXVPQVz2J%2BRTaSw%2FmAc5sT679FZC39B0d3Dz9KW2WlWXv4HEFRmAkUq8UGf4vsxqsigjY3zM9s1xws8rae1Yszzvc1cU%2FyLHEOsGxkzafShfO4U7C16hPdDPJ40DAY4w6ssvmXPcXpnrWJnJy8konFHYMlUCAas1UBp6xMMv9RW7rph8g17dEcgn8FFDNz8OBDfr0DCWVoOBygyXwNUoSZrchKNoYrY2mg%3D%3D",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2Fimages-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=doc32vQkpWzHJ15%2BMTy7NdWhd6BuOXdL5XQN6nqR06lM9CtqaOWPcO0%2Fz9%2BV7Fkb8AEndWWrLhQvoYgOjmqjoR9pFOgImtWME20ZgYqqWIJVFfRtX2C1IXVPQVz2J%2BRTaSw%2FmAc5sT679FZC39B0d3Dz9KW2WlWXv4HEFRmAkUq8UGf4vsxqsigjY3zM9s1xws8rae1Yszzvc1cU%2FyLHEOsGxkzafShfO4U7C16hPdDPJ40DAY4w6ssvmXPcXpnrWJnJy8konFHYMlUCAas1UBp6xMMv9RW7rph8g17dEcgn8FFDNz8OBDfr0DCWVoOBygyXwNUoSZrchKNoYrY2mg%3D%3D",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2Fimages-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=doc32vQkpWzHJ15%2BMTy7NdWhd6BuOXdL5XQN6nqR06lM9CtqaOWPcO0%2Fz9%2BV7Fkb8AEndWWrLhQvoYgOjmqjoR9pFOgImtWME20ZgYqqWIJVFfRtX2C1IXVPQVz2J%2BRTaSw%2FmAc5sT679FZC39B0d3Dz9KW2WlWXv4HEFRmAkUq8UGf4vsxqsigjY3zM9s1xws8rae1Yszzvc1cU%2FyLHEOsGxkzafShfO4U7C16hPdDPJ40DAY4w6ssvmXPcXpnrWJnJy8konFHYMlUCAas1UBp6xMMv9RW7rph8g17dEcgn8FFDNz8OBDfr0DCWVoOBygyXwNUoSZrchKNoYrY2mg%3D%3D",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085249/085249a_hb_w_016.jpg",
+                "order": 16
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085249/085249a_hb_w_015.jpg",
+                "order": 15
+              }
+            ]
+          },
+          {
+            "id": "172612",
+            "name": "Makati Palace",
+            "categoryCode": "3EST",
+            "description": "This modern hotel enjoys a strategic setting in the delightful surroundings of Makati. Upon arrival, guests will be instantly impressed by the lavish staircase and the luxurious canopy which adorns the lobby. The hotel is located within easy access of a number of attractions in the area, and lies just a short driving distance away from Ayala Avenue, SM Makrati and Greenbelt shopping centre. This luxurious hotel greets guests with a sophisticated architectural style. The guest rooms are superbly appointed, featuring soothing chocolate tones, with vibrant splashes of colour. The rooms come complete with modern amenities for added comfort and convenience. Guests will be impressed by the excellent facilities that this hotel has to offer.",
+            "address": "5011,P.BURGOS CORNER CACERES STREET,MAKATI CITY,  ",
+            "city": "MAKATI CITY",
+            "zoneCode": 2,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "info@makatipalacehotel.com.ph",
+            "latitude": "14.562916",
+            "longitude": "121.029608",
+            "phoneNumber": "006328990344",
+            "rooms": [
+              {
+                "id": "DBL.SU",
+                "name": "DOUBLE SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.SU|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3342.44",
+                    "discountAmount": "371.38",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "3713.82",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "3713.82|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.SU|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3560.83",
+                    "discountAmount": "395.65",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "3956.48",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "1978.24|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.SU|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3757.86",
+                    "discountAmount": "417.54",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4175.40",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4175.40|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.SU|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3976.25",
+                    "discountAmount": "441.81",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4418.06",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "2209.03|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.SU",
+                "name": "TWIN SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.SU|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3342.44",
+                    "discountAmount": "371.38",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "3713.82",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "3713.82|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.SU|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3560.83",
+                    "discountAmount": "395.65",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "3956.48",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "1978.24|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.SU|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3757.86",
+                    "discountAmount": "417.54",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4175.40",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4175.40|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.SU|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3976.25",
+                    "discountAmount": "441.81",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4418.06",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "2209.03|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBT.SU-1",
+                "name": "Double or Twin SUITE SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBT.SU-1|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3551.33",
+                    "discountAmount": "394.59",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "3945.92",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "3945.92|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBT.SU-1|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3798.22",
+                    "discountAmount": "422.02",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4220.24",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "2110.12|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBT.SU-1|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3966.75",
+                    "discountAmount": "440.75",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4407.50",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4407.50|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBT.SU-1|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4213.64",
+                    "discountAmount": "468.18",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4681.82",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "2340.91|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.DX",
+                "name": "DOUBLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.DX|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3969.14",
+                    "discountAmount": "441.02",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4410.16",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "4410.16|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.DX|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4273.00",
+                    "discountAmount": "474.78",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4747.78",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "2373.89|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.DX|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4384.57",
+                    "discountAmount": "487.17",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4871.74",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4871.74|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|DBL.DX|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4688.42",
+                    "discountAmount": "520.94",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "5209.36",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "2604.68|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.DX",
+                "name": "TWIN DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.DX|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3969.14",
+                    "discountAmount": "441.02",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4410.16",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "4410.16|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.DX|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4273.00",
+                    "discountAmount": "474.78",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4747.78",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "2373.89|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.DX|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4384.57",
+                    "discountAmount": "487.17",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4871.74",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4871.74|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|TWN.DX|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "4688.42",
+                    "discountAmount": "520.94",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "5209.36",
+                    "allotment": "25",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "2604.68|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.B1-1",
+                "name": "SUITE ONE BEDROOM",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|SUI.B1-1|FIT-GAR1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5431.46",
+                    "discountAmount": "603.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6034.96",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "6034.96|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|SUI.B1-1|FIT-GAR1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5846.89",
+                    "discountAmount": "649.65",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6496.54",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6496.54|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|SUI.B1-1|FIT-GAR|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5934.73",
+                    "discountAmount": "659.41",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6594.14",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "3297.07|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|172612|SUI.B1-1|FIT-GAR|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6350.15",
+                    "discountAmount": "705.57",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7055.72",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3527.86|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2Fimages-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=doc32vQkpWzHJ15%2BMTy7NdWhd6BuOXdL5XQN6nqR06lM9CtqaOWPcO0%2Fz9%2BV7Fkb8AEndWWrLhQvoYgOjmqjoR9pFOgImtWME20ZgYqqWIJVFfRtX2C1IXVPQVz2J%2BRTaSw%2FmAc5sT679FZC39B0d3Dz9KW2WlWXv4HEFRmAkUq8UGf4vsxqsigjY3zM9s1xws8rae1Yszzvc1cU%2FyLHEOsGxkzafShfO4U7C16hPdDPJ40DAY4w6ssvmXPcXpnrWJnJy8konFHYMlUCAas1UBp6xMMv9RW7rph8g17dEcgn8FFDNz8OBDfr0DCWVoOBygyXwNUoSZrchKNoYrY2mg%3D%3D",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_r_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_w_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_f_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "PIS",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_p_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_f_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_k_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_l_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_w_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_w_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_l_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_a_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/17/172612/172612a_hb_a_003.jpg",
+                "order": 3
+              }
+            ]
+          },
+          {
+            "id": "85248",
+            "name": "Bayview Park",
+            "categoryCode": "3EST",
+            "description": "Bayview Park Hotel Manila is located on Roxas Boulevard, directly opposite the US Embassy. It is just a few minutes walk from many popular tourist destinations such as Bay Walk , Rizal Park, Intramuros and the National Library. This city hotel was built in 1994 and renovated in 2007, and is just minutes away from many popular tourist attractions. It has established a reputation as being one of the best value-for-money hotels in Manila. There is a total of 283 superior rooms and suites available, spread over 15 floors. There is an outdoor swimming pool on the hotel grounds, as well as a sauna and a gym. Intramuros Golf Course is not far from the hotel. Guests can dine at the Coffee Shop where a daily buffet and à la carte meals are served. Guests can be assured of a pleasant stay with excellent service when choosing Bayview Park Hotel Manila.",
+            "address": "ROXAS BOULEVARD, COR. UNITED NATIONS AVE.,1118  ",
+            "city": "MANILA",
+            "zoneCode": 1,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "bookings@bayviewparkhotel.com",
+            "latitude": "14.578709",
+            "longitude": "120.978285",
+            "phoneNumber": "0106325250888",
+            "rooms": [
+              {
+                "id": "DBL.SU",
+                "name": "DOUBLE SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|DBL.SU|NRF-BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5830.38",
+                    "discountAmount": "647.82",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6478.20",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6478.20|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|DBL.SU|BAR-BB 1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6154.29",
+                    "discountAmount": "683.81",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6838.10",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3419.05|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.SU",
+                "name": "TWIN SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|TWN.SU|NRF-BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5830.38",
+                    "discountAmount": "647.82",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6478.20",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6478.20|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|TWN.SU|BAR-BB 1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6154.29",
+                    "discountAmount": "683.81",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6838.10",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3419.05|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.DX",
+                "name": "DOUBLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|DBL.DX|NRF-BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8422.38",
+                    "discountAmount": "935.82",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9358.20",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "9358.20|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|DBL.DX|FIT-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8811.59",
+                    "discountAmount": "979.07",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9790.66",
+                    "allotment": "2",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4895.33|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.DX",
+                "name": "TWIN DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|TWN.DX|NRF-BAR-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8422.38",
+                    "discountAmount": "935.82",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9358.20",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "9358.20|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|85248|TWN.DX|FIT-BB|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8811.59",
+                    "discountAmount": "979.07",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9790.66",
+                    "allotment": "2",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4895.33|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_r_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_r_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_a_011.jpg",
+                "order": 11
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_017.jpg",
+                "order": 17
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_019.jpg",
+                "order": 19
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_f_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_f_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_f_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_f_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_026.jpg",
+                "order": 26
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_l_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_l_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "PIS",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_p_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "PIS",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_p_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_024.jpg",
+                "order": 24
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_021.jpg",
+                "order": 21
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_a_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_l_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_013.jpg",
+                "order": 13
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_016.jpg",
+                "order": 16
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_015.jpg",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/08/085248/085248a_hb_ro_011.jpg",
+                "order": 11
+              }
+            ]
+          },
+          {
+            "id": "102748",
+            "name": "Palm Grove Hotel formerly known Palm Plaza Hotel",
+            "categoryCode": "3EST",
+            "description": "This comfortable hotel boasts a great location in Manila’s city centre both for business and leisure travellers alike, as it is situated right in front of Robinson's Place Manila shopping mall and a short walk from Pedro Gil - LRT Station. This accommodation is also just 3 minutes on foot from Manila Bay and a 10-minute walk from US Embassy. Both Manila domestic and international airports are within a 20-minute ride away. Those who stay at this property will be able to choose among three different room types, all of them fully equipped with useful amenities to ensure a truly memorable stay. They are luminous and spacious and decorated in a modern and cosy style. Moreover, during their stay visitors will be able to taste delicious specialities at the on-site restaurant and if they wish to, they can hold private or business events on-site.",
+            "address": "Pedro Gil Corner M. Adriatico Street, Malate,524  ",
+            "city": "MANILA",
+            "zoneCode": 1,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "reservation@transwayhotels.com",
+            "latitude": "14.574006",
+            "longitude": "120.983834",
+            "phoneNumber": "6325221000",
+            "rooms": [
+              {
+                "id": "DBL.DX",
+                "name": "DOUBLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|DBL.DX|FIT-RO-NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5395.90",
+                    "discountAmount": "599.54",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "5995.44",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "5995.44|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|DBL.DX|FIT-RO1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5865.10",
+                    "discountAmount": "651.68",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6516.78",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "6516.78|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|DBL.DX|BAR-RO-NRF1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6085.80",
+                    "discountAmount": "676.20",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6762.00",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6762.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|DBL.DX|FIT-RO1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7038.13",
+                    "discountAmount": "782.01",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7820.14",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "7820.14|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.DX",
+                "name": "TWIN DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|TWN.DX|FIT-RO-NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5395.90",
+                    "discountAmount": "599.54",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "5995.44",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "5995.44|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|TWN.DX|FIT-RO1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5865.10",
+                    "discountAmount": "651.68",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6516.78",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "6516.78|~|2018-09-04T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|TWN.DX|BAR-RO-NRF1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6085.80",
+                    "discountAmount": "676.20",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6762.00",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6762.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|102748|TWN.DX|FIT-RO1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7038.13",
+                    "discountAmount": "782.01",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7820.14",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "7820.14|~|2018-09-04T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_031.jpg",
+                "order": 31
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_032.jpg",
+                "order": 32
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_011.jpg",
+                "order": 11
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_033.jpg",
+                "order": 33
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_012.jpg",
+                "order": 12
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_034.jpg",
+                "order": 34
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_013.jpg",
+                "order": 13
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_l_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_026.jpg",
+                "order": 26
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_027.jpg",
+                "order": 27
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_028.jpg",
+                "order": 28
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_029.jpg",
+                "order": 29
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_020.jpg",
+                "order": 20
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_021.jpg",
+                "order": 21
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_022.jpg",
+                "order": 22
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_023.jpg",
+                "order": 23
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_024.jpg",
+                "order": 24
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_014.jpg",
+                "order": 14
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_015.jpg",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_016.jpg",
+                "order": 16
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_017.jpg",
+                "order": 17
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_018.jpg",
+                "order": 18
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/10/102748/102748a_hb_a_019.jpg",
+                "order": 19
+              }
+            ]
+          },
+          {
+            "id": "153297",
+            "name": "Diamond Hotel Philippines",
+            "categoryCode": "5EST",
+            "description": "Situated in Manila's Ermita-Malate neighbourhood, the hotel is close to Baywalk, SM Mall of Asia and Rizal Park. Guests can choose from the hotel's 9 impressive and fully-equipped function rooms suitable for every event (business or party). Further facilities at the hotel include a lobby with lift access, a restaurant, and room and laundry services. The guest rooms are equipped with TVs with satellite channels, wired high-speed Internet access and in-room safes. All units feature coffee and tea makers and complimentary bottled water. The en suite bathrooms offer showers, bathrobes and hairdryers. Guests are invited to take a rejuvenating plunge in the outdoor swimming pool and hot tub. Dubbed as the most authentic Japanese restaurant in Manila, the hotel's award-winning restaurant indulges guests in exquisite Japanese food masterfully prepared by a Japanese chef.",
+            "address": "Roxas Boulevard cor. Dr. J. Quintos St.,. 0 .",
+            "city": "MANILA",
+            "zoneCode": 1,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "reservations@diamondhotel.com",
+            "latitude": "14.572104",
+            "longitude": "120.982287",
+            "phoneNumber": "006326871111",
+            "rooms": [
+              {
+                "id": "DBT.DX",
+                "name": "Double or Twin DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBT.DX|FIT-RO-NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "11234.79",
+                    "discountAmount": "1248.31",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "12483.10",
+                    "allotment": "29",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "12483.10|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBT.DX|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "13205.79",
+                    "discountAmount": "1467.31",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "14673.10",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "14673.10|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBT.DX|FIT-RO1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "13217.40",
+                    "discountAmount": "1468.60",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "14686.00",
+                    "allotment": "29",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "7343.00|~|2018-09-04T23:59:00+08:00|*|14686.00|~|2018-09-05T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBT.DX|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "15536.23",
+                    "discountAmount": "1726.25",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "17262.48",
+                    "allotment": "29",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "8631.24|~|2018-09-04T23:59:00+08:00|*|17262.48|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.DX",
+                "name": "SINGLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.DX|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "12023.19",
+                    "discountAmount": "1335.91",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "13359.10",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "13359.10|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.DX|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "14144.92",
+                    "discountAmount": "1571.66",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "15716.58",
+                    "allotment": "29",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "7858.29|~|2018-09-04T23:59:00+08:00|*|15716.58|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.DX-PE",
+                "name": "SINGLE DELUXE REGENCY",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.DX-PE|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "13994.21",
+                    "discountAmount": "1554.91",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "15549.12",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "15549.12|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.DX-PE|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "16463.77",
+                    "discountAmount": "1829.31",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "18293.08",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "9146.54|~|2018-09-04T23:59:00+08:00|*|18293.08|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.DX-PE",
+                "name": "DOUBLE DELUXE REGENCY",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.DX-PE|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "15176.81",
+                    "discountAmount": "1686.31",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "16863.12",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "16863.12|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.DX-PE|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "17855.06",
+                    "discountAmount": "1983.90",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "19838.96",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "9919.48|~|2018-09-04T23:59:00+08:00|*|19838.96|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.PE",
+                "name": "SINGLE PREMIER NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.PE|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "16359.43",
+                    "discountAmount": "1817.71",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "18177.14",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "18177.14|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.PE|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "19246.37",
+                    "discountAmount": "2138.49",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "21384.86",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "10692.43|~|2018-09-04T23:59:00+08:00|*|21384.86|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.PE",
+                "name": "DOUBLE PREMIER KING NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.PE|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "17542.03",
+                    "discountAmount": "1949.11",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "19491.14",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "19491.14|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.PE|BAR-RO-NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "18173.02",
+                    "discountAmount": "2019.22",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "20192.24",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "20192.24|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.PE|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "20637.68",
+                    "discountAmount": "2293.08",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "22930.76",
+                    "allotment": "30",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "11465.38|~|2018-09-04T23:59:00+08:00|*|22930.76|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.CB",
+                "name": "SINGLE CLUB NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.CB|BAR-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "23341.50",
+                    "discountAmount": "2593.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "25935.00",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "25935.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.CB|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "25739.14",
+                    "discountAmount": "2859.90",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "28599.04",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "14299.52|~|2018-09-04T23:59:00+08:00|*|28599.04|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBL.CB",
+                "name": "DOUBLE CLUB NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.CB|BAR-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "24341.85",
+                    "discountAmount": "2704.65",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "27046.50",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "27046.50|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|DBL.CB|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "27130.43",
+                    "discountAmount": "3014.49",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "30144.92",
+                    "allotment": "10",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "15072.46|~|2018-09-04T23:59:00+08:00|*|30144.92|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.EJ",
+                "name": "SINGLE EXECUTIVE NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.EJ|BAR-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "27009.45",
+                    "discountAmount": "3001.05",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "30010.50",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "30010.50|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SGL.EJ|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "32695.65",
+                    "discountAmount": "3632.85",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "36328.50",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "18164.25|~|2018-09-04T23:59:00+08:00|*|36328.50|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.EJ",
+                "name": "SUITE EXECUTIVE NON-SMOKING",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SUI.EJ|BAR-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "28009.80",
+                    "discountAmount": "3112.20",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "31122.00",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "31122.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|153297|SUI.EJ|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "34086.96",
+                    "discountAmount": "3787.44",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "37874.40",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "18937.20|~|2018-09-04T23:59:00+08:00|*|37874.40|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_f_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_f_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_f_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_f_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_l_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_l_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_l_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "PIS",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_p_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "BAR",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ba_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "PIS",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_p_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "BAR",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ba_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_042.jpg",
+                "order": 42
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_015.jpg",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_023.jpg",
+                "order": 23
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_028.jpg",
+                "order": 28
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_041.jpg",
+                "order": 41
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_027.jpg",
+                "order": 27
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_024.jpg",
+                "order": 24
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_011.jpg",
+                "order": 11
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_029.jpg",
+                "order": 29
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_f_012.jpg",
+                "order": 12
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_026.jpg",
+                "order": 26
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_021.jpg",
+                "order": 21
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_a_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_032.jpg",
+                "order": 32
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_k_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_012.jpg",
+                "order": 12
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_013.jpg",
+                "order": 13
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_014.jpg",
+                "order": 14
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_015.jpg",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_r_016.jpg",
+                "order": 16
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_019.jpg",
+                "order": 19
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/153297/153297a_hb_ro_014.jpg",
+                "order": 14
+              }
+            ]
+          },
+          {
+            "id": "97327",
+            "name": "Crown Regency Hotel - Makati",
+            "categoryCode": "3EST",
+            "description": "The hotel enjoys a strategic location in Makati, one of the leading business, entertainment, and commercial hub of the Philippines. The domestic and international airports are both just minutes away.  The hotel combines convenience and comfort, ensuring unmatched hotel satisfaction. It has a lobby, a currency exchange and conference facilities. Further amenities include a bar and a restaurant. Room and laundry services are also available. Each hotel room comes fully furnished with standard amenities, including a well-appointed kitchen and a bathroom with full bath facilities. The rooms also feature a tasteful living space, as well as an elegant dining area adjoining the kitchen. The hotel features a gym facility, where guests can power up and rejuvenate with the help of cardio machines and body toning/strengthening equipment.",
+            "address": "A. Arnaiz Avenue, San Lorenzo Village,1026  ",
+            "city": "Makati City",
+            "zoneCode": 2,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "reservations@crownregency.com",
+            "latitude": "14.548668",
+            "longitude": "121.024938",
+            "phoneNumber": "0063324188888",
+            "rooms": [
+              {
+                "id": "DBT.SU",
+                "name": "Double or Twin SUPERIOR",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.SU|FIT-RO- NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5792.72",
+                    "discountAmount": "643.64",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6436.36",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "6436.36|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.SU|FIT RO1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6228.74",
+                    "discountAmount": "692.08",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6920.82",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "3460.41|~|2018-08-31T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.SU|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6283.64",
+                    "discountAmount": "698.18",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6981.82",
+                    "allotment": "4",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6981.82|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.SU|FIT BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6756.61",
+                    "discountAmount": "750.73",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7507.34",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3753.67|~|2018-08-31T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBT.DX",
+                "name": "Double or Twin DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.DX|FIT-RO- NRF|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7442.19",
+                    "discountAmount": "826.91",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "8269.10",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "8269.10|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.DX|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7933.09",
+                    "discountAmount": "881.45",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "8814.54",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "8814.54|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.DX|FIT RO1|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8002.35",
+                    "discountAmount": "889.15",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "8891.50",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "4445.75|~|2018-08-31T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|DBT.DX|FIT BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8530.20",
+                    "discountAmount": "947.80",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9478.00",
+                    "allotment": "3",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4739.00|~|2018-08-31T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.ST",
+                "name": "SUITE CORNER",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|SUI.ST|FIT-BB-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "9111.26",
+                    "discountAmount": "1012.36",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "10123.62",
+                    "allotment": "1",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "10123.62|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97327|SUI.ST|FIT BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "9797.06",
+                    "discountAmount": "1088.56",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "10885.62",
+                    "allotment": "1",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "5442.81|~|2018-08-31T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_r_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_016.JPG",
+                "order": 16
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_f_003.JPG",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_l_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_013.jpg",
+                "order": 13
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_015.JPG",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "BAR",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ba_002.JPG",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_a_015.JPG",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_012.jpg",
+                "order": 12
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_k_003.JPG",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097327/097327a_hb_ro_014.JPG",
+                "order": 14
+              }
+            ]
+          },
+          {
+            "id": "97393",
+            "name": "Atrium Hotel",
+            "categoryCode": "3EST",
+            "description": "The hotel is located in the Makati City business district of Manila. Bars, nightlife and shopping opportunities can all be found in the vicinity. Baclaran Church, Manila Ocean Park, Rizal Park - Intramuros and the SM Mall of Asia are all easily accessible by car or public transport. The bus and train stations are both about a 10-minute walk away. The hotel is located a 10-15 minutes' drive away from the Airport. The hotel also offers a massage treatment service. Breakfast is served as a buffet, while lunch is served à la carte. This hotel is the perfect base for business and sightseeing in Manila.",
+            "address": "15F TAFT CENTRALE EXCHANGE GIL PUYAT COR.TAFT AVE.,  ",
+            "city": "MANILA",
+            "zoneCode": 3,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "atriumhotelmnl@yahoo.com",
+            "latitude": "14.553497980379591",
+            "longitude": "120.99677692394255",
+            "phoneNumber": "6329132614",
+            "rooms": [
+              {
+                "id": "JSU.ST",
+                "name": "JUNIOR SUITE STANDARD",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|JSU.ST|OFF-BAR-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3937.50",
+                    "discountAmount": "437.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4375.00",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4375.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|JSU.ST|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6257.88",
+                    "discountAmount": "695.32",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6953.20",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3476.60|~|2018-08-31T23:59:00+08:00|*|6953.20|~|2018-09-07T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.ST",
+                "name": "SUITE STANDARD",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.ST|OFF-BAR-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "3937.50",
+                    "discountAmount": "437.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "4375.00",
+                    "allotment": "73",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4375.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.ST|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6257.88",
+                    "discountAmount": "695.32",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6953.20",
+                    "allotment": "72",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "3476.60|~|2018-08-31T23:59:00+08:00|*|6953.20|~|2018-09-07T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.B1-1",
+                "name": "SUITE ONE BEDROOM",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.B1-1|OFF-BAR-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "5197.50",
+                    "discountAmount": "577.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "5775.00",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "5775.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.B1-1|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8343.85",
+                    "discountAmount": "927.09",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9270.94",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "4635.47|~|2018-08-31T23:59:00+08:00|*|9270.94|~|2018-09-07T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SUI.B2",
+                "name": "SUITE TWO BEDROOMS",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.B2|OFF-BAR-NRF|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NRF",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "6007.50",
+                    "discountAmount": "667.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "6675.00",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "6675.00|~|2018-08-09T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|97393|SUI.B2|FIT-BB1|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "9684.81",
+                    "discountAmount": "1076.09",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "10760.90",
+                    "allotment": "20",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "5380.45|~|2018-08-31T23:59:00+08:00|*|10760.90|~|2018-09-07T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_r_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_f_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_011.jpg",
+                "order": 11
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_w_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_w_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_l_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_a_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/09/097393/097393a_hb_ro_007.jpg",
+                "order": 7
+              }
+            ]
+          },
+          {
+            "id": "479183",
+            "name": "Paseo Premiere Hotel",
+            "categoryCode": "3EST",
+            "description": "Strategically located in the heart of Santa Rosa Business Park, this 4-star property is across from Laguna Techno Park, one of the largest export zones in Calabarzon. Each room at this property boasts its modern style furnishing to meet the needs of all guests. Within the premises, guests will find a casino, room service, meeting facilities on-site, and a fully equipped gym for complete enjoyment. In addition to all the luxurious amenities, business travelers are offered in-room technology that includes high-speed broadband internet access and data ports. Within easy walking distance, guests will find Paseo de Santa Rosa Mall. Each room at this property enjoys magnificent views of Santa Rosa and the mountain scenery of Tagaytay and Laguna Lake. Enjoy the simple luxury, relaxing ambiance, and personalized services of Paseo Premiere Hotel.",
+            "address": "Sta. Rosa Business Park,  ",
+            "city": "Santa Rosa",
+            "zoneCode": 7,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "reservations@paseopremierehotel.com",
+            "latitude": "14.247475",
+            "longitude": "121.066544",
+            "phoneNumber": "63495028123",
+            "rooms": [
+              {
+                "id": "DBL.DX",
+                "name": "DOUBLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|479183|DBL.DX|FIT RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7020.65",
+                    "discountAmount": "780.07",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7800.72",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "7800.72|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "TWN.DX",
+                "name": "TWIN DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|479183|TWN.DX|FIT RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "7020.65",
+                    "discountAmount": "780.07",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "7800.72",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "7800.72|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBT.BS-DX",
+                "name": "Double or Twin BUSINESS DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|479183|DBT.BS-DX|FIT RO|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8023.59",
+                    "discountAmount": "891.51",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "8915.10",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "8915.10|~|2018-09-05T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_r_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_r_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_f_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_005.jpg",
+                "order": 5
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_ro_004.jpg",
+                "order": 4
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_l_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_k_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/47/479183/479183a_hb_a_001.jpg",
+                "order": 1
+              }
+            ]
+          },
+          {
+            "id": "152396",
+            "name": "Hotel Jen Manila",
+            "categoryCode": "4EST",
+            "description": "The hotel on Roxas Boulevard is just 400 metres from Manila's conference and exhibition centres and 20-minutes' drive from Ninoy Aquino International Airport. Its rooms offer LCD TVs and views of Manila Bay and Roxas Boulevard. The hotel provides guests with recreational facilities such as the Paseo del Sol outdoor swimming pool, children's wading pool, and a fitness centre. The hotel also offers in-room massage. The signature restaurant serves authentic Japanese cuisine and houses a cozy bar. Asian cuisine and an international lunch buffet is served at another on-site restaurant. The bar at the lobby offers nightly entertainment, while the hotel's cyber offers light fare and broadband Internet access.\n",
+            "address": "3001 ROXAS BOULEVARD,1308  ",
+            "city": "PASAY CITY",
+            "zoneCode": 3,
+            "countryId": "PH",
+            "destinationId": "MNL",
+            "emailAddress": "reservations.hjm@hoteljen.com",
+            "latitude": "14.558537",
+            "longitude": "120.987874",
+            "phoneNumber": "7958888 loc. 2940",
+            "rooms": [
+              {
+                "id": "SGL.DX",
+                "name": "SINGLE DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|SGL.DX|FIT-FLEXI-BOL|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "8648.19",
+                    "discountAmount": "960.91",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "9609.10",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "4804.55|~|2018-09-06T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|SGL.DX|FIT-FLEXI-BOL|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "10722.26",
+                    "discountAmount": "1191.36",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "11913.62",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "5956.81|~|2018-09-06T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBT.DX",
+                "name": "Double or Twin DELUXE",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|DBT.DX|FIT-FLEXI-HBD|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "10588.54",
+                    "discountAmount": "1176.50",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "11765.04",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "5882.52|~|2018-09-06T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|DBT.DX|FIT-FLEXI-HBD|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "12662.60",
+                    "discountAmount": "1406.96",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "14069.56",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "7034.78|~|2018-09-06T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "SGL.BV-DX",
+                "name": "SINGLE DELUXE BAY VIEW",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|SGL.BV-DX|FIT-FLEXI-HBD|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "11039.11",
+                    "discountAmount": "1226.57",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "12265.68",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "6132.84|~|2018-09-06T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|SGL.BV-DX|FIT-FLEXI-HBD|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "13113.18",
+                    "discountAmount": "1457.02",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "14570.20",
+                    "allotment": "5",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "7285.10|~|2018-09-06T23:59:00+08:00"
+                  }
+                ]
+              },
+              {
+                "id": "DBT.BV-DX",
+                "name": "Double or Twin DELUXE BAY VIEW",
+                "rates": [
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|DBT.BV-DX|FIT-FLEXI-BOL|RO||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "34188.03",
+                    "discountAmount": "3798.67",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "37986.70",
+                    "allotment": "2",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "RO",
+                    "boardName": "ROOM ONLY",
+                    "cancellationPolicies": "18993.35|~|2018-09-06T23:59:00+08:00"
+                  },
+                  {
+                    "rateKey": "20180908|20180910|W|271|152396|DBT.BV-DX|FIT-FLEXI-BOL|BB||1~1~0||N@7EE2549963BB43198EEB52DB92B209E30459",
+                    "rateClass": "NOR",
+                    "rateType": "BOOKABLE",
+                    "netAmount": "36262.10",
+                    "discountAmount": "4029.12",
+                    "discountPercentage": "10.00",
+                    "sellingAmount": "40291.22",
+                    "allotment": "2",
+                    "paymentType": "AT_WEB",
+                    "boardCode": "BB",
+                    "boardName": "BED AND BREAKFAST",
+                    "cancellationPolicies": "20145.61|~|2018-09-06T23:59:00+08:00"
+                  }
+                ]
+              }
+            ],
+            "images": [
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_014.jpg",
+                "order": 14
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_010.jpg",
+                "order": 10
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_014.jpg",
+                "order": 14
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_013.jpg",
+                "order": 13
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_r_030.jpg",
+                "order": 30
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_011.jpg",
+                "order": 11
+              },
+              {
+                "imageTypeCode": "DEP",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_f_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_002.jpg",
+                "order": 2
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_006.jpg",
+                "order": 6
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_r_028.jpg",
+                "order": 28
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_009.jpg",
+                "order": 9
+              },
+              {
+                "imageTypeCode": "RES",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_r_029.jpg",
+                "order": 29
+              },
+              {
+                "imageTypeCode": "BAR",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ba_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_w_001.jpg",
+                "order": 1
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_l_008.jpg",
+                "order": 8
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_k_014.jpg",
+                "order": 14
+              },
+              {
+                "imageTypeCode": "COM",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_l_007.jpg",
+                "order": 7
+              },
+              {
+                "imageTypeCode": "HAB",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_ro_015.jpg",
+                "order": 15
+              },
+              {
+                "imageTypeCode": "GEN",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_a_003.jpg",
+                "order": 3
+              },
+              {
+                "imageTypeCode": "CON",
+                "path": "http://photos.hotelbeds.com/giata/bigger/15/152396/152396a_hb_k_013.jpg",
+                "order": 13
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,16 @@
+export const SET_BILLSPAYMENTSCREEN = "billspayment/types/SET_BILLSPAYMENTSCREEN";
+export const SET_TRANSACTION_DATES = "billspayment/types/SET_TRANSACTION_DATES";
+export const SET_INPUTDETAILS = "billspayment/types/SET_INPUTDETAILS";
+export const SET_TRANSACTION_TABLE_DATA = "billspayment/types/SET_TRANSACTION_TABLE_DATA";
+export const GET_TRANSACTIONS = "billspayment/types/GET_TRANSACTIONS";
+export const GET_BILLERS = "billspayment/types/GET_BILLERS";
+export const VALIDATE_FIELDS = "billspayment/types/VALIDATE_FIELDS";
+export const UPLOAD_IMAGE = "billspayment/types/UPLOAD_IMAGE";
+export const GET_CATEGORIES = "billspayment/types/GET_CATEGORIES";
+export const GET_FIELDS = "billspayment/types/GET_FIELDS";
+export const GET_RECEIPT = "billspayment/types/GET_RECEIPT";
+export const GET_RATES = "billspayment/types/GET_RATES";
+export const SUBMIT_PAYMENT = "billspayment/types/SUBMIT_PAYMENT";
+export const TRANSACTION_SUCCESSFUL = "billspayment/types/TRANSACTION_SUCCESSFUL";
+export const TRANSACTION_FAILED = "billspayment/types/TRANSACTION_FAILED";
+export const TRANSACTION_IN_PROGRESS = "billspayment/types/TRANSACTION_IN_PROGRESS";

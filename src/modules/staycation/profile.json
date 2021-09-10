@@ -1,0 +1,324 @@
+{
+  "status": 200,
+  "homes": {
+    "AdditionalHouseRules": [],
+    "reviews": [],
+    "createdAt": "2019-11-19T11:05:31.000Z",
+    "updatedAt": "2020-01-21T07:17:34.000Z",
+    "id": 148,
+    "name": "PDU Condo Unit",
+    "description": "The building where PDU Condo Unit is located at has a recreation area that the guests may use.",
+    "status": "PUBLISH",
+    "cleaningFee": 0,
+    "numberOfGuests": 4,
+    "numberOfRooms": 1,
+    "numberOfBathroom": 1,
+    "numberOfBeds": 1,
+    "minStay": 1,
+    "maxStay": 3,
+    "amount": 100,
+    "currency": "PHP",
+    "address": "78",
+    "location": "Denver Loop",
+    "latitude": "14.6862509",
+    "longitude": "121.1100694",
+    "placeId": "EjNEZW52ZXIgTG9vcCwgUXVlem9uIENpdHksIE1ldHJvIE1hbmlsYSwgUGhpbGlwcGluZXMiLiosChQKEgkNwE8WO7qXMxEn_Fm9vmIqCBIUChIJdXPvQgm6lzMRQD0I_tkymko",
+    "city": "Quezon City",
+    "state": "Metro Manila",
+    "country": "PH",
+    "zipcode": "1103",
+    "space": "The guests are allowed to use the kitchen and kitchenwares to cook their meals.",
+    "availability": "The guests may contact the receptionist to connect the call to the owner/agent.",
+    "neighborhood": "There are some shopping malls and amusement park nearby.",
+    "gettingAround": "PDU Condo Unit is nearby the public transporatation.",
+    "noticeArrivalGuest": 48,
+    "checkIn": "8",
+    "checkOut": "12",
+    "noticeArrivalGuestTime": 10,
+    "remarks": "",
+    "trackingNumber": "148191127091113",
+    "user": {
+      "createdAt": "2019-11-19T03:08:51.000Z",
+      "updatedAt": "2019-12-05T11:26:32.000Z",
+      "id": 39,
+      "accountId": "9010000017377181",
+      "firstName": "globaltemp44",
+      "lastName": "globaltemp44",
+      "middleName": " ",
+      "emailAddress": "pdu@mygprs.ph",
+      "mobileNumber": "09458439954",
+      "avatar": null,
+      "accountType": "ecash center"
+    },
+    "homeType": {
+      "createdAt": "2018-12-06T02:11:57.000Z",
+      "updatedAt": "2018-12-06T02:11:57.000Z",
+      "id": 1,
+      "name": "Entire Place",
+      "label": "ENTIRE",
+      "description": "Guests have the whole place to themselves. This usually includes a bedroom, a bathroom, and a kitchen."
+    },
+    "propertyType": {
+      "createdAt": "2019-06-19T00:59:46.000Z",
+      "updatedAt": "2019-06-19T00:59:46.000Z",
+      "id": 79,
+      "name": "One Bedroom",
+      "description": "One Bedroom",
+      "status": true,
+      "property": 7
+    },
+    "property": 7,
+    "images": [
+      {
+        "uid": 307,
+        "name": "PDU Condo Unit Bedroom",
+        "url": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2Fimages-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=doc32vQkpWzHJ15%2BMTy7NdWhd6BuOXdL5XQN6nqR06lM9CtqaOWPcO0%2Fz9%2BV7Fkb8AEndWWrLhQvoYgOjmqjoR9pFOgImtWME20ZgYqqWIJVFfRtX2C1IXVPQVz2J%2BRTaSw%2FmAc5sT679FZC39B0d3Dz9KW2WlWXv4HEFRmAkUq8UGf4vsxqsigjY3zM9s1xws8rae1Yszzvc1cU%2FyLHEOsGxkzafShfO4U7C16hPdDPJ40DAY4w6ssvmXPcXpnrWJnJy8konFHYMlUCAas1UBp6xMMv9RW7rph8g17dEcgn8FFDNz8OBDfr0DCWVoOBygyXwNUoSZrchKNoYrY2mg%3D%3D",
+        "publicId": "images/images-1574161530640.jpg",
+        "home": 148,
+        "status": 10
+      }
+    ],
+    "bedRooms": [
+      {
+        "beds": [
+          {
+            "createdAt": "2019-11-19T11:05:32.000Z",
+            "updatedAt": "2019-11-19T11:05:32.000Z",
+            "id": 362,
+            "name": "Couch",
+            "quantity": 1,
+            "roomId": 103
+          },
+          {
+            "createdAt": "2019-11-19T11:05:32.000Z",
+            "updatedAt": "2019-11-19T11:05:32.000Z",
+            "id": 363,
+            "name": "Hammock",
+            "quantity": 1,
+            "roomId": 103
+          },
+          {
+            "createdAt": "2019-11-19T11:05:32.000Z",
+            "updatedAt": "2019-11-19T11:05:32.000Z",
+            "id": 364,
+            "name": "Floor Mattress",
+            "quantity": 1,
+            "roomId": 103
+          }
+        ],
+        "createdAt": "2019-11-19T11:05:32.000Z",
+        "updatedAt": "2019-11-19T11:05:32.000Z",
+        "id": 103,
+        "roomNumber": 0,
+        "status": 10,
+        "home": 148
+      },
+      {
+        "beds": [
+          {
+            "createdAt": "2019-11-19T11:05:32.000Z",
+            "updatedAt": "2019-11-19T11:05:32.000Z",
+            "id": 365,
+            "name": "Floor Mattress",
+            "quantity": 1,
+            "roomId": 104
+          },
+          {
+            "createdAt": "2019-11-19T11:05:32.000Z",
+            "updatedAt": "2019-11-19T11:05:32.000Z",
+            "id": 366,
+            "name": "King",
+            "quantity": 1,
+            "roomId": 104
+          }
+        ],
+        "createdAt": "2019-11-19T11:05:32.000Z",
+        "updatedAt": "2019-11-19T11:05:32.000Z",
+        "id": 104,
+        "roomNumber": 1,
+        "status": 10,
+        "home": 148
+      }
+    ],
+    "houseRules": [
+      {
+        "id": 256,
+        "name": "Suitable for children (2-12 years)",
+        "status": 10,
+        "description": ""
+      },
+      {
+        "id": 257,
+        "name": "Suitable for infants (Under 2 years)",
+        "status": 10,
+        "description": ""
+      },
+      {
+        "id": 258,
+        "name": "Suitable for pets",
+        "status": 20,
+        "description": ""
+      },
+      {
+        "id": 259,
+        "name": "Smoking allowed",
+        "status": 20,
+        "description": ""
+      },
+      {
+        "id": 260,
+        "name": "Events or parties allowed",
+        "status": 10,
+        "description": ""
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Basic",
+        "content": [
+          {
+            "name": "Essentials",
+            "id": 4
+          },
+          {
+            "name": "Shampoo",
+            "id": 7
+          },
+          {
+            "name": "Heater",
+            "id": 9
+          },
+          {
+            "name": "Slippers",
+            "id": 38
+          },
+          {
+            "name": "Coffee/tea maker",
+            "id": 41
+          },
+          {
+            "name": "Wifi",
+            "id": 6
+          },
+          {
+            "name": "TV",
+            "id": 8
+          },
+          {
+            "name": "Satellite/Cable TV",
+            "id": 30
+          },
+          {
+            "name": "Toiletries",
+            "id": 34
+          },
+          {
+            "name": "Closet",
+            "id": 39
+          },
+          {
+            "name": "Linens",
+            "id": 37
+          }
+        ]
+      },
+      {
+        "name": "Safety features",
+        "content": [
+          {
+            "name": "Smoke detector",
+            "id": 13
+          },
+          {
+            "name": "First aid kit",
+            "id": 16
+          },
+          {
+            "name": "Lock on bedroom door",
+            "id": 18
+          },
+          {
+            "name": "Fire extinguisher",
+            "id": 17
+          }
+        ]
+      },
+      {
+        "name": "Common Areas",
+        "content": [
+          {
+            "name": "Kitchen",
+            "id": 20
+          },
+          {
+            "name": "Laundry – dryer",
+            "id": 22
+          },
+          {
+            "name": "Elevator",
+            "id": 24
+          },
+          {
+            "name": "Gym",
+            "id": 26
+          },
+          {
+            "name": "Bath tub",
+            "id": 47
+          },
+          {
+            "name": "Kitchenware",
+            "id": 49
+          },
+          {
+            "name": "Wheelchair Accessible",
+            "id": 57
+          },
+          {
+            "name": "Laundry – washer",
+            "id": 21
+          },
+          {
+            "name": "Parking",
+            "id": 23
+          },
+          {
+            "name": "Hot tub",
+            "id": 25
+          },
+          {
+            "name": "Mini bar",
+            "id": 40
+          },
+          {
+            "name": "Refrigerator",
+            "id": 32
+          },
+          {
+            "name": "Shower",
+            "id": 48
+          },
+          {
+            "name": "Swimming Pool",
+            "id": 58
+          }
+        ]
+      }
+    ],
+    "proofType": "agent",
+    "proofOfOwnership": [
+      {
+        "id": 152,
+        "url": "https://storage.googleapis.com/v3-staycation-bucket-main-01/images%2FproofOfOwnerships-1574161530640.jpg?GoogleAccessId=sa-v3-staycation-main-01%40ups-v3.iam.gserviceaccount.com&Expires=1765468800&Signature=QpLCutTXDtf%2FSlcgOM6vD00o4bM1GMddtphNlF%2BA78Dz%2BfrRZ%2Bnz61GYPWS8fJ8aWHr7vwkhW8TT8yvBGfxbqnRYdWoFfpGTKxvV2hvUIvEzfico%2FGmIfINMUby9Yn16Zl57TIYi0Z0PyHDd7o2DpPNVvkLtRMvvrxk0MQVGirvuYwo9Fgab7WRePFUFtwtPwCbAsAMKu8SIPgeT6ltwQLZqp01cC0OcPfS21uuQlcJ%2FZ%2BQ2NTKokQSVG9z1Poe06D0vjHX%2FLlxbt176MkHr7H2%2FHASh6wIvTdTpGVdX67A83Shjy4tVijEyWT3K8%2BN5mj6bDwB9GJ%2B04ZGnrOzD7w%3D%3D",
+        "publicId": "images/proofOfOwnerships-1574161530640.jpg",
+        "proofType": "agent"
+      }
+    ],
+    "others": {
+      "arrFacility": [],
+      "arrAmenity": []
+    }
+  },
+  "review": 0,
+  "amenities": 29
+}

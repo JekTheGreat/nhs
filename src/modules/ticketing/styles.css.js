@@ -1,0 +1,85 @@
+import { StyleSheet} from "react-native";
+import {getStatusBarHeight} from "__src/resources/customize/StatusBarHeight";
+import Resource from "__src/resources";
+const {Color} = Resource;
+
+export default StyleSheet.create({
+	container: {flexShrink: 1, width: "100%", height: "100%", backgroundColor: Color.StatusBar},
+	bg: {position: "absolute", flex: 1, backgroundColor: Color.white, marginTop: getStatusBarHeight(true)},
+	account: {backgroundColor: "blue", marginTop: getStatusBarHeight(true)},
+	body: {flex: 1, backgroundColor: Color.bg},
+	wallet: {position: "absolute", zIndex: 1},
+	services: {width: "100%", backgroundColor: "transparent"},
+
+	imageBaggage: {height: 300, width: "100%"},
+	txtHeader: {fontSize: 20, fontWeight: "bold", textAlign: "center", color: Color.Header},
+	txtSubHeader: {fontSize: 13, fontFamily: "Roboto", textAlign: "center", color: Color.Header, marginTop: 10},
+	btnSearch: {height: 40, width: "100%", marginTop: 25, marginBottom: 25},
+	
+	imgsuccess: {width: 125, height: 125, alignSelf: "center", marginVertical: 10},
+	img35: {width: 35, height: 35},
+	txtsuccess: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.green, fontSize: 14, marginTop: 15},
+	dlWrapper: {flexDirection: "column", justifyContent: "center", alignItems: "center", marginBottom: 30},
+	labelStyle2: {color: Color.black, fontWeight: "bold"},
+	txtDownload: {color: Color.LightBlue, fontFamily: "Roboto-Light", fontSize: 13},
+
+	mainContainer: {flex: 1, paddingHorizontal: 20,  backgroundColor: Color.bg},
+	flex1: {flex: 1, backgroundColor: "white"},
+	flexShrink1: {flexShrink: 1},
+	flex1marT15: {flex: 1, marginTop: 15},
+	flex1marT20: {flex: 1, marginTop: 20},
+	flex1marV20: {flex: 1, marginVertical: 20},
+	flex1allCenter: {flexShrink: 1, alignItems: "center", justifyContent: "center"},
+	flex1padH20: {flex: 1, paddingHorizontal: 20},
+	flex1marT30padH20: {flex: 1, paddingHorizontal: 20, marginTop: 20},
+	marT10: {marginTop: 10},
+	marT15: {marginTop: 15},
+	marT20: {marginTop: 20},
+	marT25: {marginTop: 25},
+	marT27: {marginTop: 27},
+	marT30: {marginTop: 30},
+	marB10: {marginBottom: 10},
+	marB20: {marginBottom: 20},
+	padH20: {paddingHorizontal: 20},
+	padmar0: {paddingBottom: 0, paddingTop: 0, marginTop: 0, marginBottom: 0},
+	input: {flex: 1, fontFamily: "Roboto-Light", fontSize: 15, marginLeft: 5, paddingVertical: 0},
+	input2: {fontFamily: "Roboto-Light", fontSize: 15, marginLeft: 3},
+	input3: {fontFamily: "Roboto-Light", fontSize: 12, color: Color.Standard},
+	input4: {flex: 1, fontFamily: "Roboto-Light", fontSize: 14, paddingVertical: 0},
+	txt1: {fontFamily: "Roboto-Light", textAlign: "center", color: Color.LightBlue, fontWeight: "bold", fontSize: 22},
+	txt2: {fontFamily: "Roboto", color: Color.Standard2, fontSize: 21},
+	txt3: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 13},
+	txt3_1: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 20},
+	txt4: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 14},
+	txt5: {fontFamily: "Roboto", fontSize: 18, color: Color.Standard, marginLeft: 10},
+	txt6: {fontFamily: "Roboto", fontSize: 13, color: Color.Standard2},
+	txt7: {flexShrink: 1, paddingVertical: 0, fontFamily: "Roboto-Light", fontSize: 12, color: Color.Standard},
+	txt8: {flexShrink: 1, paddingVertical: 0, fontFamily: "Roboto", color: Color.LightBlue, fontSize: 21},
+	cardView1: {padding: 20, alignItems: "center", justifyContent: "center",
+		marginLeft: 0, marginRight: 0, marginTop: 10, marginBottom: 0, borderRadius: 5},
+	cardView2: {padding: 10, flexDirection: "row", alignItems: "center", justifyContent: "center",
+		marginLeft: 0, marginRight: 0, marginTop: 0, marginBottom: 0},
+	cardView3: {position: "absolute", bottom: -40, zIndex: 2, marginLeft: 0, marginRight: 0},
+	iconContainerStyle: {position: "absolute", left: 5, top: 8},
+	img1: {width: 125, height: 125, alignSelf: "center", marginVertical: 20},
+	img2: {width: 65, height: 50},
+	img3: {width: 35, height: 35, marginVertical: 7},
+
+	renderSuccessWrapper: {flex: 1, padding: 30, flexDirection: "column", justifyContent: "space-between"},
+	renderSuccessWrapper2: {justifyContent: "center", alignItems: "center", marginBottom: 20},
+	txtok: {color: Color.colorPrimary, fontSize: 18, alignSelf: "center", paddingHorizontal: 30, paddingVertical: 10},
+	zIndex1: {zIndex: 1},
+	containerStyle: {paddingVertical: 0, marginTop: 15, paddingHorizontal: 0, marginHorizontal: 0,
+		backgroundColor: "transparent", borderWidth: 0, marginLeft: 0},
+
+	// SEARCH FLIGHT
+
+
+	// SEARCH COMPONENT
+	SCView1: {flexDirection: "row", flex: 1, marginTop: 20},
+	SCView2: {flexDirection: "column", alignItems: "center", marginTop: 10},
+	SCView3: {flexDirection: "column", flex: 1, paddingLeft: 15},
+	SCImage1: {height: 20, width: 20, marginVertical: 3},
+	SCLine: {height: 10, width: 1, backgroundColor: Color.colorPrimary, marginTop: 3},
+	labelStyle: {fontSize: 18, fontFamily: "Roboto"},
+});

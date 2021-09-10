@@ -1,0 +1,80 @@
+import { StyleSheet} from "react-native";
+import Resource from "__src/resources";
+const {Color} = Resource;
+
+export default StyleSheet.create({
+	flex1: {flex: 1},
+	flex1marginTop15: {flex: 1, marginTop: 15},
+	flex1marginTop30: {flex: 1, marginTop: 30},
+	flex1padH30: {flex: 1, paddingHorizontal: 30},
+	flex1marT30padH30: {flex: 1, paddingHorizontal: 30, marginTop: 30},
+	flex1padH30padT30padB10: {flex: 1, paddingHorizontal: 30, paddingTop: 30, paddingBottom: 10},
+	flexrow: {flexDirection: "row"},
+	height100: {height: "100%"},
+
+	imgsuccess: {marginTop: 30, alignSelf: "center" },
+	marginTop15: {marginTop: 15},
+	marginTo20: {marginTop: 20},
+	marginTop30: {marginTop: 30},
+	marginTop45: {marginTop: 45},
+	marginBottom10: {marginBottom: 10},
+	marginBottom20: {marginBottom: 20},
+	marginBottom30: {marginBottom: 30},
+	marginT65marginB30: {marginTop: 65, marginBottom: 30},
+	borderWidth0: {borderBottomWidth: 0},
+	fontRenderDone: {color: Color.colorPrimaryDark, fontWeight: "bold", fontSize: 18 },
+	title: {fontSize: 25, fontFamily: "Roboto-Light", color: Color.Standard2},
+	subtitle: {fontSize: 13, fontFamily: "Roboto-Light", color: Color.Standard2, marginTop: 5},
+	info: {marginTop: 30, fontSize: 14, fontFamily: "Roboto-Light", color: Color.Standard},
+	inputStyles: {fontSize: 18, color: Color.Standard2},
+	success: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 25, fontWeight: "400"},
+	subsuccess: {textAlign: "center", fontFamily: "Roboto-Light", color: Color.Standard2, fontSize: 22},
+	txtGetHelpContainer: {fontSize: 13, marginVertical: 20, color: Color.LightBlue,
+		fontFamily: "Roboto-Light", textAlign: "center" },
+	txtGetHelpContainer2: {fontSize: 14, marginVertical: 20, color: Color.Standard2, fontFamily: "Roboto-Light", textAlign: "center" },
+	txtHelp: {fontWeight: "bold", color: Color.colorPrimary},
+
+	btnStyle: {width: 100, height: 45, alignSelf: "flex-end", borderBottomWidth: 5, marginBottom: 20, marginTop: 20},
+	btnStyle2: {width: "100%", height: 45, alignSelf: "flex-end", borderBottomWidth: 5 },
+	btnStyle3: {width: "100%", height: 45, alignSelf: "flex-end", backgroundColor: "transparent", borderBottomWidth: 0, borderColor: "transparent" },
+	btnLabelStyle: {color: Color.colorPrimaryDark},
+	viewPhonecode: {paddingHorizontal: 10, paddingVertical: 2, borderRadius: 5,
+		backgroundColor: Color.Standard, marginRight: 10},
+	txtcountrycode: { fontFamily: "Roboto-Light", color: Color.white},
+	
+	dropdownstyle: {width: 200, height: 250, borderColor: "#D9D8D8",
+		marginTop: 3, borderWidth: 1, borderRadius: 5},
+	dropdownRow: {flexDirection: "row", height: 40, alignItems: "center", backgroundColor: "white"},
+	dropdownRowText: {marginLeft: 5, fontSize: 13, fontFamily: "Roboto-Light", color: Color.DarkBG},
+	dropdownRowText2: {fontWeight: "bold"},
+	views_bi3: { width: "100%", flexDirection: "row", alignItems: "center", height: 40,  borderBottomColor: Color.Standard, borderBottomWidth: 0.6},
+	labelStyle: {color: Color.Standard, fontSize: 14, fontFamily: "Roboto-Light"},
+	textfields: { flex: 1,  fontSize: 14, fontFamily: "Roboto-Light"},
+	icon: {padding: 5, borderRadius: 5},
+	errStyle: {color: Color.red, fontSize: 13, fontFamily: "Roboto-Light", marginTop: 4},
+	load: {width: 10, height: 10},
+
+	containerStyle: { padding: 0, marginVertical: 5, borderColor: "transparent", backgroundColor: "transparent"},
+	textStyle: {fontWeight: "normal", color: Color.Standard2, fontFamily: "Roboto-Light"},
+
+	// React-native-elements
+	ListContainerStyle: {flex: 1, marginTop: 30, borderTopWidth: 0,
+		borderBottomWidth: 0, marginBottom: 10 },
+	titleStyle: {color: Color.Standard2, fontFamily: "Roboto-Light"},
+	titleStyle2: {color: Color.Standard2, fontFamily: "Roboto-Light", fontSize: 16},
+	titleStyle3: {color: Color.Standard2, fontFamily: "Roboto-Light", fontSize: 16, marginLeft: 0, paddingLeft: 0},
+	liStyle: {backgroundColor: Color.white, marginBottom: 2, paddingLeft: 0, marginLeft: 0,
+		borderBottomColor: Color.transparent, paddingRight: 0, marginRight: 0},
+	subtitleStyle: {color: Color.Standard, fontFamily: "Roboto-Light", fontSize: 11},
+	subtitleStyle2: {color: Color.Standard, fontFamily: "Roboto-Light", fontSize: 11, marginLeft: 10},
+	subtitleStyle3: {color: Color.Standard, fontFamily: "Roboto-Light", fontSize: 11, marginLeft: 0, paddingLeft: 0},
+	avatarStyle: {width: 25, height: 25},
+	imgDesk: {width: 30, height: 30},
+	txtNodata: {flex: 1, alignSelf: "center", fontFamily: "Roboto-Light", color: Color.colorPrimary, fontSize: 14},
+	
+	// components/security/alert.js
+	cbcontainerStyle: {marginLeft: 10, padding: 0, backgroundColor: "transparent", borderColor: "transparent"},
+	cbtextStyle: {fontFamily: "Roboto-Light", fontWeight: "normal", fontSize: 13, color: Color.Standard2},
+
+	img1: {width: 130, height: 130, alignSelf: "center", marginVertical: 30},
+});

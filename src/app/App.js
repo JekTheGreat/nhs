@@ -17,7 +17,8 @@ const logger = createLogger({
 	// ...options
 });
 
-const engine = debounce(createEngine(""), 1500);
+// const engine = createEngine("unified-key");
+const engine = debounce(createEngine("unified-key"), 1500);
 const storage = reduxStorage.createMiddleware(engine);
 
 const composeEnhancers = composeWithDevTools({ realtime: true });
@@ -25,6 +26,7 @@ const store = createStore(reduxStorage.reducer(AppReducer),
 	composeEnhancers(applyMiddleware(thunk, logger, storage))
 );
 
+// import { setJSExceptionHandler } from "react-native-exception-handler";
 
 const reporter = error => {
 	// Logic for reporting to devs
@@ -52,6 +54,14 @@ const errorHandler = (e, isFatal) => {
 	}
 };
 
+// setJSExceptionHandler(errorHandler);
+
+// setNativeExceptionHandler(errorString => {
+//   //You can do something like call an api to report to dev team here
+//   //example
+//   // fetch('http://<YOUR API TO REPORT TO DEV TEAM>?error='+errorString);
+//   //
+// });
 
 export default class App extends Component {
 	constructor(props) {

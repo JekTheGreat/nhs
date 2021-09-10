@@ -1,15 +1,20 @@
 /* eslint-disable */
 import * as React from "react";
-import { SafeAreaView, StyleSheet, Dimensions, View, Animated } from "react-native";
+import { SafeAreaView, StyleSheet, Dimensions, View, Animated} from "react-native";
 import * as shape from "d3-shape";
-import Svg, { Path } from "react-native-svg";
-import StaticTabbar, { height } from "./StaticTabbar";
+import Svg, {Path} from "react-native-svg";
+import StaticTabbar, {height} from "./StaticTabbar";
+import { getBottomSpace } from "react-native-iphone-x-helper";
 import Resources from "__src/resources";
 import REAnimated from "react-native-reanimated";
+import * as Animatable from 'react-native-animatable';
+import { PanGestureHandler, State } from "react-native-gesture-handler";
+import { clamp, onGestureEvent, timing, withSpring } from "react-native-redash";
+import * as Custom from "__src/config/custom";
 const { Color } = Resources;
 const AnimatedSvg = Animated.createAnimatedComponent(Svg);
 const { width } = Dimensions.get("window");
-const tabWidth = width / 3;
+const tabWidth = width / 5;
 const backgroundColor = "white";
 
 const getPath = () => {
@@ -19,7 +24,7 @@ const getPath = () => {
 	]);
 	const tab = shape.line().x((d) => d.x).y((d) => d.y).curve(shape.curveBasis)([
 		{ x: width, y: 0 },
-		{ x: width - 50, y: 0 },
+		{ x: width - 20, y: 0 },
 		{ x: width + 10, y: 0 },
 		{ x: width + 15, y: height / 1.37 },
 
@@ -35,52 +40,52 @@ const getPath = () => {
 		{ x: 0, y: height },
 		{ x: 0, y: 0 },
 	]);
-
+	
 	return `${left} ${tab} ${right}`;
 };
 const d = getPath();
 
 const {
-	Value,
+  Value,
 } = REAnimated;
 
 export default class Tabbar extends React.PureComponent {
-
+  
 	value = new Animated.Value(0);
 	translationY = new Value(0);
 
 
 
-	render() {
-		const { value } = this;
-		const translateX = value.interpolate({
-			inputRange: [0, width],
-			outputRange: [-width, 0],
-			extrapolate: "clamp",
+  render() {
+		const { value} = this;
+  	const translateX = value.interpolate({
+  		inputRange: [0, width],
+  		outputRange: [-width, 0],
+  		extrapolate: "clamp",
 		});
 
-		return (
+		console.log("Tabbar", this.props)
+
+  	return (
 			<View style={[styles.style]} >
 				<View {...{ height, width, backgroundColor: Color.transparent }}>
-					<AnimatedSvg width={width * 2} {...{ height }} style={{ transform: [{ translateX }] }}>
+					<AnimatedSvg width={width * 2 } {...{ height }} style={{ transform: [{ translateX }] }}>
 						<Path fill={backgroundColor} {...{ d }} />
 					</AnimatedSvg>
 					<View style={[StyleSheet.absoluteFill]}>
-						<StaticTabbar {...this.props} value={value} />
+						<StaticTabbar {...this.props} value={value}/>
 					</View>
 				</View>
 				<SafeAreaView style={styles.container} />
 			</View>
-		);
-	}
+  	);
+  }
 }
 
 const styles = StyleSheet.create({
 	container: { backgroundColor: Color.white },
-	style: {
-		backgroundColor: Color.transparent,
-		position: 'absolute', left: 0, right: 0, bottom: 0
-	},
+	style: { backgroundColor: Color.transparent,
+		position: 'absolute', left: 0, right: 0, bottom: 0 },
 	playerSheet: {
 		...StyleSheet.absoluteFillObject,
 		backgroundColor: "cyan",

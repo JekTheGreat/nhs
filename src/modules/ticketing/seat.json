@@ -1,0 +1,6708 @@
+{
+  "Rows": [
+    {
+      "RowNumber": "1",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "1",
+          "SeatDesignator": "1A",
+          "Number": "A",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "BULKHEAD",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": false,
+          "SeatAvailability": "Open",
+          "SeatSet": "1",
+          "SeatDesignator": "1B",
+          "Number": "B",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "SSS",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "1",
+          "SeatDesignator": "1C",
+          "Number": "C",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BULKHEAD",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1D",
+          "Number": "D",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BULKHEAD",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1E",
+          "Number": "E",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "BULKHEAD",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1F",
+          "Number": "F",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        //ADD 
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1G",
+          "Number": "D",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BULKHEAD",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1H",
+          "Number": "E",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "CENTER",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "2",
+          "SeatDesignator": "1H",
+          "Number": "E",
+          "RowNumber": "1",
+          "SeatGroup": "21",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 32.04,
+            "Amount": 266.96,
+            "TotalAmount": 299
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "CENTER",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+      ]
+    },
+    {
+      "RowNumber": "2",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "3",
+          "SeatDesignator": "2A",
+          "Number": "A",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "3",
+          "SeatDesignator": "2B",
+          "Number": "B",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "3",
+          "SeatDesignator": "2C",
+          "Number": "C",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "4",
+          "SeatDesignator": "2D",
+          "Number": "D",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "4",
+          "SeatDesignator": "2E",
+          "Number": "E",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "4",
+          "SeatDesignator": "2F",
+          "Number": "F",
+          "RowNumber": "2",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "3",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "5",
+          "SeatDesignator": "3A",
+          "Number": "A",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "5",
+          "SeatDesignator": "3B",
+          "Number": "B",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "5",
+          "SeatDesignator": "3C",
+          "Number": "C",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "6",
+          "SeatDesignator": "3D",
+          "Number": "D",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "6",
+          "SeatDesignator": "3E",
+          "Number": "E",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "6",
+          "SeatDesignator": "3F",
+          "Number": "F",
+          "RowNumber": "3",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "4",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "7",
+          "SeatDesignator": "4A",
+          "Number": "A",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "7",
+          "SeatDesignator": "4B",
+          "Number": "B",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "7",
+          "SeatDesignator": "4C",
+          "Number": "C",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "8",
+          "SeatDesignator": "4D",
+          "Number": "D",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "8",
+          "SeatDesignator": "4E",
+          "Number": "E",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "8",
+          "SeatDesignator": "4F",
+          "Number": "F",
+          "RowNumber": "4",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "5",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "9",
+          "SeatDesignator": "5A",
+          "Number": "A",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "9",
+          "SeatDesignator": "5B",
+          "Number": "B",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "9",
+          "SeatDesignator": "5C",
+          "Number": "C",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "10",
+          "SeatDesignator": "5D",
+          "Number": "D",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "10",
+          "SeatDesignator": "5E",
+          "Number": "E",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "10",
+          "SeatDesignator": "5F",
+          "Number": "F",
+          "RowNumber": "5",
+          "SeatGroup": "22",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 26.68,
+            "Amount": 222.32,
+            "TotalAmount": 249
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "6",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "11",
+          "SeatDesignator": "6A",
+          "Number": "A",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "11",
+          "SeatDesignator": "6B",
+          "Number": "B",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "11",
+          "SeatDesignator": "6C",
+          "Number": "C",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "12",
+          "SeatDesignator": "6D",
+          "Number": "D",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "12",
+          "SeatDesignator": "6E",
+          "Number": "E",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "12",
+          "SeatDesignator": "6F",
+          "Number": "F",
+          "RowNumber": "6",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "7",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "13",
+          "SeatDesignator": "7A",
+          "Number": "A",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "13",
+          "SeatDesignator": "7B",
+          "Number": "B",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "13",
+          "SeatDesignator": "7C",
+          "Number": "C",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "14",
+          "SeatDesignator": "7D",
+          "Number": "D",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "14",
+          "SeatDesignator": "7E",
+          "Number": "E",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "14",
+          "SeatDesignator": "7F",
+          "Number": "F",
+          "RowNumber": "7",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "8",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "15",
+          "SeatDesignator": "8A",
+          "Number": "A",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "15",
+          "SeatDesignator": "8B",
+          "Number": "B",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "15",
+          "SeatDesignator": "8C",
+          "Number": "C",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "16",
+          "SeatDesignator": "8D",
+          "Number": "D",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "16",
+          "SeatDesignator": "8E",
+          "Number": "E",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "16",
+          "SeatDesignator": "8F",
+          "Number": "F",
+          "RowNumber": "8",
+          "SeatGroup": "23",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 21.32,
+            "Amount": 177.68,
+            "TotalAmount": 199
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "9",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "17",
+          "SeatDesignator": "9A",
+          "Number": "A",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "17",
+          "SeatDesignator": "9B",
+          "Number": "B",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "17",
+          "SeatDesignator": "9C",
+          "Number": "C",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "18",
+          "SeatDesignator": "9D",
+          "Number": "D",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "18",
+          "SeatDesignator": "9E",
+          "Number": "E",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "18",
+          "SeatDesignator": "9F",
+          "Number": "F",
+          "RowNumber": "9",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "10",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "19",
+          "SeatDesignator": "10A",
+          "Number": "A",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "19",
+          "SeatDesignator": "10B",
+          "Number": "B",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "19",
+          "SeatDesignator": "10C",
+          "Number": "C",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "20",
+          "SeatDesignator": "10D",
+          "Number": "D",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "20",
+          "SeatDesignator": "10E",
+          "Number": "E",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "20",
+          "SeatDesignator": "10F",
+          "Number": "F",
+          "RowNumber": "10",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "1"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "11",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "21",
+          "SeatDesignator": "11A",
+          "Number": "A",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "21",
+          "SeatDesignator": "11B",
+          "Number": "B",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "21",
+          "SeatDesignator": "11C",
+          "Number": "C",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "22",
+          "SeatDesignator": "11D",
+          "Number": "D",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "22",
+          "SeatDesignator": "11E",
+          "Number": "E",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "22",
+          "SeatDesignator": "11F",
+          "Number": "F",
+          "RowNumber": "11",
+          "SeatGroup": "24",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 20.25,
+            "Amount": 168.75,
+            "TotalAmount": 189
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "12",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "23",
+          "SeatDesignator": "12A",
+          "Number": "A",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "23",
+          "SeatDesignator": "12B",
+          "Number": "B",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "23",
+          "SeatDesignator": "12C",
+          "Number": "C",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "24",
+          "SeatDesignator": "12D",
+          "Number": "D",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "24",
+          "SeatDesignator": "12E",
+          "Number": "E",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "24",
+          "SeatDesignator": "12F",
+          "Number": "F",
+          "RowNumber": "12",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "14",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "25",
+          "SeatDesignator": "14A",
+          "Number": "A",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "25",
+          "SeatDesignator": "14B",
+          "Number": "B",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "25",
+          "SeatDesignator": "14C",
+          "Number": "C",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "26",
+          "SeatDesignator": "14D",
+          "Number": "D",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "26",
+          "SeatDesignator": "14E",
+          "Number": "E",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "26",
+          "SeatDesignator": "14F",
+          "Number": "F",
+          "RowNumber": "14",
+          "SeatGroup": "25",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 28.82,
+            "Amount": 240.18,
+            "TotalAmount": 269
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "EXITROW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LEGROOM",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "1"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "15",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "27",
+          "SeatDesignator": "15A",
+          "Number": "A",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "27",
+          "SeatDesignator": "15B",
+          "Number": "B",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "27",
+          "SeatDesignator": "15C",
+          "Number": "C",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "28",
+          "SeatDesignator": "15D",
+          "Number": "D",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "28",
+          "SeatDesignator": "15E",
+          "Number": "E",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "28",
+          "SeatDesignator": "15F",
+          "Number": "F",
+          "RowNumber": "15",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "16",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "29",
+          "SeatDesignator": "16A",
+          "Number": "A",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "29",
+          "SeatDesignator": "16B",
+          "Number": "B",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "29",
+          "SeatDesignator": "16C",
+          "Number": "C",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "30",
+          "SeatDesignator": "16D",
+          "Number": "D",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "30",
+          "SeatDesignator": "16E",
+          "Number": "E",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "30",
+          "SeatDesignator": "16F",
+          "Number": "F",
+          "RowNumber": "16",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "17",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "31",
+          "SeatDesignator": "17A",
+          "Number": "A",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "31",
+          "SeatDesignator": "17B",
+          "Number": "B",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "31",
+          "SeatDesignator": "17C",
+          "Number": "C",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "32",
+          "SeatDesignator": "17D",
+          "Number": "D",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "32",
+          "SeatDesignator": "17E",
+          "Number": "E",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "32",
+          "SeatDesignator": "17F",
+          "Number": "F",
+          "RowNumber": "17",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "WING",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "18",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "33",
+          "SeatDesignator": "18A",
+          "Number": "A",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "33",
+          "SeatDesignator": "18B",
+          "Number": "B",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "33",
+          "SeatDesignator": "18C",
+          "Number": "C",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "34",
+          "SeatDesignator": "18D",
+          "Number": "D",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "34",
+          "SeatDesignator": "18E",
+          "Number": "E",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "34",
+          "SeatDesignator": "18F",
+          "Number": "F",
+          "RowNumber": "18",
+          "SeatGroup": "26",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "19",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "35",
+          "SeatDesignator": "19A",
+          "Number": "A",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "35",
+          "SeatDesignator": "19B",
+          "Number": "B",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "35",
+          "SeatDesignator": "19C",
+          "Number": "C",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "36",
+          "SeatDesignator": "19D",
+          "Number": "D",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "36",
+          "SeatDesignator": "19E",
+          "Number": "E",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "36",
+          "SeatDesignator": "19F",
+          "Number": "F",
+          "RowNumber": "19",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "3"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "20",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "37",
+          "SeatDesignator": "20A",
+          "Number": "A",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "37",
+          "SeatDesignator": "20B",
+          "Number": "B",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "37",
+          "SeatDesignator": "20C",
+          "Number": "C",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "38",
+          "SeatDesignator": "20D",
+          "Number": "D",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "38",
+          "SeatDesignator": "20E",
+          "Number": "E",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "38",
+          "SeatDesignator": "20F",
+          "Number": "F",
+          "RowNumber": "20",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "21",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "39",
+          "SeatDesignator": "21A",
+          "Number": "A",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "39",
+          "SeatDesignator": "21B",
+          "Number": "B",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "39",
+          "SeatDesignator": "21C",
+          "Number": "C",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "40",
+          "SeatDesignator": "21D",
+          "Number": "D",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "40",
+          "SeatDesignator": "21E",
+          "Number": "E",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "40",
+          "SeatDesignator": "21F",
+          "Number": "F",
+          "RowNumber": "21",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "2"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "22",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "41",
+          "SeatDesignator": "22A",
+          "Number": "A",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "41",
+          "SeatDesignator": "22B",
+          "Number": "B",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "41",
+          "SeatDesignator": "22C",
+          "Number": "C",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "42",
+          "SeatDesignator": "22D",
+          "Number": "D",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "42",
+          "SeatDesignator": "22E",
+          "Number": "E",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "42",
+          "SeatDesignator": "22F",
+          "Number": "F",
+          "RowNumber": "22",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "23",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "43",
+          "SeatDesignator": "23A",
+          "Number": "A",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "43",
+          "SeatDesignator": "23B",
+          "Number": "B",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "43",
+          "SeatDesignator": "23C",
+          "Number": "C",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "44",
+          "SeatDesignator": "23D",
+          "Number": "D",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "44",
+          "SeatDesignator": "23E",
+          "Number": "E",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "44",
+          "SeatDesignator": "23F",
+          "Number": "F",
+          "RowNumber": "23",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "24",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "45",
+          "SeatDesignator": "24A",
+          "Number": "A",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "45",
+          "SeatDesignator": "24B",
+          "Number": "B",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "45",
+          "SeatDesignator": "24C",
+          "Number": "C",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "46",
+          "SeatDesignator": "24D",
+          "Number": "D",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "46",
+          "SeatDesignator": "24E",
+          "Number": "E",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "46",
+          "SeatDesignator": "24F",
+          "Number": "F",
+          "RowNumber": "24",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "25",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "47",
+          "SeatDesignator": "25A",
+          "Number": "A",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "47",
+          "SeatDesignator": "25B",
+          "Number": "B",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "47",
+          "SeatDesignator": "25C",
+          "Number": "C",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "48",
+          "SeatDesignator": "25D",
+          "Number": "D",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "48",
+          "SeatDesignator": "25E",
+          "Number": "E",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "48",
+          "SeatDesignator": "25F",
+          "Number": "F",
+          "RowNumber": "25",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "26",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "49",
+          "SeatDesignator": "26A",
+          "Number": "A",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "49",
+          "SeatDesignator": "26B",
+          "Number": "B",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "49",
+          "SeatDesignator": "26C",
+          "Number": "C",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "50",
+          "SeatDesignator": "26D",
+          "Number": "D",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "50",
+          "SeatDesignator": "26E",
+          "Number": "E",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "50",
+          "SeatDesignator": "26F",
+          "Number": "F",
+          "RowNumber": "26",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "27",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "51",
+          "SeatDesignator": "27A",
+          "Number": "A",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "51",
+          "SeatDesignator": "27B",
+          "Number": "B",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "51",
+          "SeatDesignator": "27C",
+          "Number": "C",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "52",
+          "SeatDesignator": "27D",
+          "Number": "D",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "52",
+          "SeatDesignator": "27E",
+          "Number": "E",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "52",
+          "SeatDesignator": "27F",
+          "Number": "F",
+          "RowNumber": "27",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "28",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "53",
+          "SeatDesignator": "28A",
+          "Number": "A",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "53",
+          "SeatDesignator": "28B",
+          "Number": "B",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "53",
+          "SeatDesignator": "28C",
+          "Number": "C",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "54",
+          "SeatDesignator": "28D",
+          "Number": "D",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "54",
+          "SeatDesignator": "28E",
+          "Number": "E",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "54",
+          "SeatDesignator": "28F",
+          "Number": "F",
+          "RowNumber": "28",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "29",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "55",
+          "SeatDesignator": "29A",
+          "Number": "A",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "55",
+          "SeatDesignator": "29B",
+          "Number": "B",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "55",
+          "SeatDesignator": "29C",
+          "Number": "C",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "56",
+          "SeatDesignator": "29D",
+          "Number": "D",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "56",
+          "SeatDesignator": "29E",
+          "Number": "E",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "56",
+          "SeatDesignator": "29F",
+          "Number": "F",
+          "RowNumber": "29",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "30",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "57",
+          "SeatDesignator": "30A",
+          "Number": "A",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "57",
+          "SeatDesignator": "30B",
+          "Number": "B",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "57",
+          "SeatDesignator": "30C",
+          "Number": "C",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "58",
+          "SeatDesignator": "30D",
+          "Number": "D",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "58",
+          "SeatDesignator": "30E",
+          "Number": "E",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "58",
+          "SeatDesignator": "30F",
+          "Number": "F",
+          "RowNumber": "30",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "RowNumber": "31",
+      "Seats": [
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "59",
+          "SeatDesignator": "31A",
+          "Number": "A",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "59",
+          "SeatDesignator": "31B",
+          "Number": "B",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "59",
+          "SeatDesignator": "31C",
+          "Number": "C",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "60",
+          "SeatDesignator": "31D",
+          "Number": "D",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "AISLE",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "60",
+          "SeatDesignator": "31E",
+          "Number": "E",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        },
+        {
+          "Assignable": true,
+          "SeatAvailability": "Open",
+          "SeatSet": "60",
+          "SeatDesignator": "31F",
+          "Number": "F",
+          "RowNumber": "31",
+          "SeatGroup": "27",
+          "ServiceCharge": {
+            "CurrencyCode": "PHP",
+            "Tax": 15.96,
+            "Amount": 133.04,
+            "TotalAmount": 149
+          },
+          "PropertyList": {
+            "EquipmentProperty": [
+              {
+                "TypeCode": "LAVATORY",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "TCC",
+                "Value": "Y"
+              },
+              {
+                "TypeCode": "WINDOW",
+                "Value": "True"
+              },
+              {
+                "TypeCode": "BRDZONE",
+                "Value": "2"
+              },
+              {
+                "TypeCode": "SRVZONE",
+                "Value": "3"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

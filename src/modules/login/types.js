@@ -1,0 +1,102 @@
+export const SET_LOGIN_DETAILS = "login/types/SET_LOGIN_DETAILS";
+export const SET_LOGIN_VERIFICATION = "login/types/SET_LOGIN_VERIFICATION";
+export const LOGOUT = "logout/types/LOGOUT";
+export const LOGIN_RESET = "login/types/LOGIN_RESET";
+export const LOGGING_INPROGRESS = "login/types/LOGGING_INPROGRESS";
+export const REGISTER_SUCCESS = "register/type/REGISTER_SUCCESS";
+export const SEND_CODE = "register/type/SEND_CODE";
+export const LOGIN_SUCCESS = "login/types/LOGIN_SUCCESS";
+export const LOGIN_FAILED = "login/types/LOGIN_FAILED";
+export const LOGIN_2FA = "login/types/LOGIN_2FA";
+export const LOGIN_2FA_RESET = "login/types/LOGIN_2FA_RESET";
+export const LOGIN_2FA_SUCCESS = "login/types/LOGIN_2FA_SUCCESS";
+export const ADDITIONAL_DETAILS_LOAD = "login/types/ADDITIONAL_DETAILS_LOAD";
+export const ADDITIONAL_DETAILS = "login/types/ADDITIONAL_DETAILS";
+export const SET_UNAUTHORIZED = "login/types/SET_UNAUTHORIZED";
+export const GET_KYC_1 = "login/types/GET_KYC_1";
+export const GET_KYC_2 = "login/types/GET_KYC_2";
+export const LOGIN_RESET_VERIFICATION = "login/types/LOGIN_RESET_VERIFICATION";
+export const LOGIN_ACCOUNT_NOT_VERIFIED = "login/types/LOGIN_ACCOUNT_NOT_VERIFIED";
+export const GETTING_ADDITIONAL_DETAILS = "login/types/GETTING_ADDITIONAL_DETAILS";
+export const LOGIN_SET_SESSION_USER = "login/types/LOGIN_SET_SESSION_USER";
+export const OTP_FAILED = "login/types/OTP_FAILED";
+
+export const LOGIN_ACCOUNT_ADMIN_VERIFIED = "login/types/LOGIN_ACCOUNT_ADMIN_VERIFIED";
+export const LOGIN_LOCATION_ADMIN_VERIFIED = "login/types/LOGIN_LOCATION_ADMIN_VERIFIED";
+export const LOGIN_LOCATION_ADMIN_NOT_VERIFIED = "LOGIN_LOCATION_ADMIN_NOT_VERIFIED";
+
+export const LOGGING_IN_WITH_FB = "login/types/LOGGING_IN_WITH_FB";
+export const LOGIN_FB_FAILED = "login/types/LOGIN_FB_FAILED";
+export const LOGGING_IN_WITH_FB2 = "login/types/LOGGING_IN_WITH_FB2";
+export const LOGIN_FB2_FAILED = "login/types/LOGIN_FB2_FAILED";
+
+export const IS_CHECKING = "login/types/IS_CHECKING";
+export const DONE_CHECKING = "login/types/DONE_CHECKING";
+export const FAIL_CHECKING = "login/types/FAIL_CHECKING";
+export const RESET_CHECKING = "login/types/RESET_CHECKING";
+
+export const CONFIRMATION_EMAIL_SUCCESS = "main/types/CONFIRMATION_EMAIL_SUCCESS";
+export const CONFIRMATION_MOBILE_SUCCESS = "main/types/CONFIRMATION_MOBILE_SUCCESS";
+export const LOGIN_SET_CURRENT_LOGIN = "login/types/LOGIN_SET_CURRENT_LOGIN";
+export const LOGIN_SET_CURRENT_ACCOUNT = "login/types/LOGIN_SET_CURRENT_ACCOUNT";
+export const LOGIN_GET_ACCOUNT_SUCCESS = "login/types/LOGIN_GET_ACCOUNT_SUCCESS";
+
+export const DONE_RESEND_VERIFICATION_CODE = "login/types/DONE_RESEND_VERIFICATION_CODE";
+export const FAIL_RESEND_VERIFICATION_CODE = "login/types/FAIL_RESEND_VERIFICATION_CODE";
+export const RESEND_VERIFICATION_CODE = "login/types/RESEND_VERIFICATION_CODE";
+
+export const GET_LOGIN_HISTORIES = "login/types/GET_LOGIN_HISTORIES";
+export const GET_LOGIN_HISTORIES_FAILED = "login/types/GET_LOGIN_HISTORIES_FAILED";
+export const IS_LOGGING_OUT_DEVICES = "login/types/IS_LOGGING_OUT_DEVICES";
+export const LOGOUT_OTHER_DEVICES_SUCCESS = "login/types/LOGOUT_OTHER_DEVICES_SUCCESS";
+export const LOGOUT_OTHER_DEVICES_FAILED = "login/types/LOGOUT_OTHER_DEVICES_FAILED";
+export const SIMULTANEOUS_LOGIN = "login/types/SIMULTANEOUS_LOGIN";
+export const BLOCKED_ACCESS = "login/types/BLOCKED_ACCESS";
+export const PASSWORD_EXPIRED =  "login/types/PASSWORD_EXPIRED";
+export const CHANGING_EXPIRED_PASSWORD =  "login/types/CHANGING_EXPIRED_PASSWORD";
+export const CHANGE_EXPIRED_PASSWORD_SUCCESS =  "login/types/CHANGE_EXPIRED_PASSWORD_SUCCESS";
+export const CHANGE_EXPIRED_PASSWORD_FAILED =  "login/types/CHANGE_EXPIRED_PASSWORD_FAILED";
+
+
+export const ACCOUNT_CHANGE_EMAIL_SUCCESS =
+	"account/types/ACCOUNT_CHANGE_EMAIL_SUCCESS";
+export const ACCOUNT_CHANGE_PASSWORD_SUCCESS =
+	"account/types/ACCOUNT_CHANGE_PASSWORD_SUCCESS";
+export const ACCOUNT_CHANGE_MOBILE_SUCCESS =
+	"account/types/ACCOUNT_CHANGE_MOBILE_SUCCESS";
+
+// change profile details
+export const DONE_SAVING_PROFILE_CHANGES = "profile/types/DONE_SAVING_PROFILE_CHANGES";
+export const SETTING_CHANGE_2FA_SUCCESS = "setting/types/SETTING_CHANGE_2FA_SUCCESS";
+export const SETTING_LOGIN_ALERT_SUCCESS = "settings/types/SETTING_LOGIN_ALERT_SUCCESS";
+export const ENABLE_LOGIN_ALERT_EMAIL_SUCCESS = "settings/types/ENABLE_LOGIN_ALERT_EMAIL_SUCCESS";
+export const ENABLE_LOGIN_ALERT_SMS_SUCCESS = "settings/types/ENABLE_LOGIN_ALERT_SMS_SUCCESS";
+
+// change profile photo
+export const DONE_UPDATING_PROFILE_PHOTO = "profile/types/DONE_UPDATING_PROFILE_PHOTO";
+// success uploading address photo
+export const VERIFY_ADDRESS_PHOTO_SUCCESS = "account/types/VERIFY_ADDRESS_PHOTO_SUCCESS";
+// set profile screen
+export const SET_CURRENT_SCREEN = "profile/types/SET_CURRENT_SCREEN";
+
+// get current employee
+
+export const GET_CURRENT_EMPLOYEE_SUCCESS = "login/types/GET_CURRENT_EMPLOYEE_SUCCESS";
+export const GET_CURRENT_EMPLOYEE_FAILED = "login/types/GET_CURRENT_EMPLOYEE_FAILED";
+export const GETTING_CURRENT_EMPLOYEE = "login/types/GETTING_CURRENT_EMPLOYEE";
+
+// outlet
+
+export const LOGIN_USER_OUTLET_NOTACTIVE = "login/types/LOGIN_USER_OUTLET_NOTACTIVE";
+
+export const RESET_VERIFYING_UPLOAD_ID_SELFIE_PHOTO =
+	"profile/types/RESET_VERIFYING_UPLOAD_ID_SELFIE_PHOTO";
+export const RESET_VERIFYING_UPLOAD_ADDRESS_AUTH_PHOTO =
+	"profile/types/RESET_VERIFYING_UPLOAD_ADDRESS_AUTH_PHOTO";
+export const DONE_VERIFYING_UPLOAD_ID_SELFIE_PHOTO =
+	"profile/types/DONE_VERIFYING_UPLOAD_ID_SELFIE_PHOTO";
+export const DONE_CLEARING_PROOF_OF_ADDRESS_PHOTO =
+	"profile/types/DONE_CLEARING_PROOF_OF_ADDRESS_PHOTO";
+export const DONE_CLEARING_ID_SELFIE_PHOTO = "profile/types/DONE_CLEARING_ID_SELFIE_PHOTO";
+export const DONE_VERIFYING_UPLOAD_ADDRESS_AUTH_PHOTO =
+	"profile/types/DONE_VERIFYING_UPLOAD_ADDRESS_AUTH_PHOTO";

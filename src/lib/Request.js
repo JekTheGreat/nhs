@@ -32,6 +32,9 @@ class Request {
 				headers: {
 					Accept: "application/json",
 					"Content-Type": this.contentype || "application/json",
+					"x-app-name": "com.ups.mobile",
+					// "x-app-token": "1QdEOk4JB7cyOdlpr55r0fhisx90jLwH",
+					"x-app-token": "ZLa82ZDfVY8m8AEBzzwlLbTbXMjEebL8",
 				},
 			};
 
